@@ -1,0 +1,1733 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?SkRCQ19kYXky?=
+Date: Date: Thu, 17 May 2018 20:18:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0067638552.467"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0067638552.467
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0022546184.334"
+
+
+------=_Next_Part_0022546184.334
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0022546184.334
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>JDBC_day2<=
+/title>=0A<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_l=
+ink_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; h=
+eight: 16px; cursor: default; padding: 0 10px 0 2px; vertical-ali=
+gn: -10%;-webkit-user-select: none;} .wiz-todo-label { display: i=
+nline-block; padding-top: 7px; padding-bottom: 6px; line-height:=20=
+1.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-label-un=
+checked {text-decoration: initial;} .wiz-todo-completed-info {pad=
+ding-left: 44px; display: inline-block; } .wiz-todo-avatar { widt=
+h:20px; height: 20px; vertical-align: -20%; margin-right:10px; bo=
+rder-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666;=
+ }</style><style id=3D"wiz_custom_css">        html, body {     =20=
+      font-size: 15px;        }        body {            font-fam=
+ily: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', SimSun, Si=
+mHei, arial, sans-serif;            line-height: 1.6;           =20=
+padding: 0;            margin: 20px 36px;            margin: 1.33=
+rem 2.4rem;        }        h1, h2, h3, h4, h5, h6 {            m=
+argin: 20px 0 10px;            margin: 1.33rem 0 0.667rem;      =20=
+     padding: 0;            font-weight: bold;        }        h1=
+ {            font-size: 21px;            font-size: 1.4rem;    =20=
+   }        h2 {            font-size: 20px;            font-size=
+: 1.33rem;        }        h3 {            font-size: 18px;     =20=
+      font-size: 1.2rem;        }        h4 {            font-siz=
+e: 17px;            font-size: 1.13rem;        }        h5 {    =20=
+       font-size: 15px;            font-size: 1rem;        }    =20=
+   h6 {            font-size: 15px;            font-size: 1rem; =20=
+          color: #777777;            margin: 1rem 0;        }   =20=
+    div, p, blockquote, ul, ol, dl, li, table, pre {            m=
+argin: 0;        }        ul, ol {            padding-left: 32px;=
+            padding-left: 2.13rem;        }        blockquote { =20=
+          border-left: 4px solid #dddddd;            padding: 0 1=
+2px;            padding: 0 0.8rem;            color: #aaa;      =20=
+ }        blockquote > :first-child {            margin-top: 0; =20=
+      }        blockquote > :last-child {            margin-botto=
+m: 0;        }        img {            border: 0;            max-=
+width: 100%;            height: auto !important;        }       =20=
+table {            border-collapse: collapse;            border:=20=
+1px solid #bbbbbb;        }        td {            border-collaps=
+e: collapse;            border: 1px solid #bbbbbb;        }     =20=
+  @media screen and (max-width: 660px) {            body {      =20=
+         margin: 20px 18px;                margin: 1.33rem 1.2rem=
+;            }        }        @media only screen and (-webkit-ma=
+x-device-width: 1024px), only screen and (-o-max-device-width: 10=
+24px), only screen and (max-device-width: 1024px), only screen an=
+d (-webkit-min-device-pixel-ratio: 3), only screen and (-o-min-de=
+vice-pixel-ratio: 3), only screen and (min-device-pixel-ratio: 3)=
+ {            html, body {                font-size: 17px;      =20=
+     }            body {                line-height: 1.7;       =20=
+        margin: 0.75rem 0.9375rem;                color: #353c47;=
+            }            h1 {                font-size: 2.125rem;=
+            }            h2 {                font-size: 1.875rem;=
+            }            h3 {                font-size: 1.625rem;=
+            }            h4 {                font-size: 1.375rem;=
+            }            h5 {                font-size: 1.125rem;=
+            }            h6 {                color: inherit;    =20=
+       }            ul, ol {                padding-left: 2.5rem;=
+            }            blockquote {                border-left:=
+ 4px solid #c8d4e8;                padding: 0 0.9375rem;        =20=
+       color: #b3c2dd;            }        }</style><link type=3D=
+"text/css" rel=3D"stylesheet" id=3D"wiz_code_highlight_link" href=
+=3D"wiz_code_highlight_471.css"></head>=0A=0A<body style=3D""><di=
+v>01_preparedStatement=BD=E2=BE=F6sql=B5=C4=D7=A2=C8=EB=CE=CA=CC=E2=
+<br></div><div><span style=3D"background-color: rgb(255, 255, 0);=
+">=D7=A2=D2=E2=A3=BA=D2=D4=BA=F3=D3=C0=D4=B6=B6=BC=CA=B9=D3=C3<sp=
+an style=3D"font-size: 15px; line-height: 1.6;">preparedStatement=
+=C0=B4=D6=B4=D0=D0sql=A3=AC=B7=C0=D6=B9sql=D7=A2=C8=EB=CE=CA=CC=E2=
+</span></span></div><div><br></div><div><div><pre class=3D"pretty=
+print linenums prettyprinted"><ol class=3D"linenums"><li class=3D=
+"L0"><code class=3D"language-java"><span class=3D"kwd">package</s=
+pan><span class=3D"pln"> com</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">itheima</span><span class=3D"pun">.</span><span=
+ class=3D"pln">preparedstatement_01</span><span class=3D"pun">;</=
+span></code></li><li class=3D"L1"><code class=3D"language-java"><=
+/code></li><li class=3D"L2"><code class=3D"language-java"><span c=
+lass=3D"kwd">import</span><span class=3D"pln"> java</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">sql</span><span class=3D=
+"pun">.</span><span class=3D"typ">Connection</span><span class=3D=
+"pun">;</span></code></li><li class=3D"L3"><code class=3D"languag=
+e-java"><span class=3D"kwd">import</span><span class=3D"pln"> jav=
+a</span><span class=3D"pun">.</span><span class=3D"pln">sql</span=
+><span class=3D"pun">.</span><span class=3D"typ">PreparedStatemen=
+t</span><span class=3D"pun">;</span></code></li><li class=3D"L4">=
+<code class=3D"language-java"><span class=3D"kwd">import</span><s=
+pan class=3D"pln"> java</span><span class=3D"pun">.</span><span c=
+lass=3D"pln">sql</span><span class=3D"pun">.</span><span class=3D=
+"typ">ResultSet</span><span class=3D"pun">;</span></code></li><li=
+ class=3D"L5"><code class=3D"language-java"><span class=3D"kwd">i=
+mport</span><span class=3D"pln"> java</span><span class=3D"pun">.=
+</span><span class=3D"pln">sql</span><span class=3D"pun">.</span>=
+<span class=3D"typ">SQLException</span><span class=3D"pun">;</spa=
+n></code></li><li class=3D"L6"><code class=3D"language-java"></co=
+de></li><li class=3D"L7"><code class=3D"language-java"><span clas=
+s=3D"kwd">import</span><span class=3D"pln"> com</span><span class=
+=3D"pun">.</span><span class=3D"pln">itheima</span><span class=3D=
+"pun">.</span><span class=3D"pln">sh</span><span class=3D"pun">.<=
+/span><span class=3D"pln">utils_04</span><span class=3D"pun">.</s=
+pan><span class=3D"typ">JdbcUtil</span><span class=3D"pun">;</spa=
+n></code></li><li class=3D"L8"><code class=3D"language-java"></co=
+de></li><li class=3D"L9"><code class=3D"language-java"><span clas=
+s=3D"com">/*</span></code></li><li class=3D"L0"><code class=3D"la=
+nguage-java"><span class=3D"com"> * =B8=C3=C0=E0=D2=AA=D1=A7=CF=B0=
+=B5=C4=C4=DA=C8=DD=A3=BAjava=D6=D0=CA=B9=D3=C3=D4=A4=B1=E0=D2=EB=BD=
+=E2=BE=F6sql=D7=A2=C8=EB=B5=C4=CE=CA=CC=E2</span></code></li><li=20=
+class=3D"L1"><code class=3D"language-java"><span class=3D"com"> *=
+ ( PreparedStatement=BD=D3=BF=DA)</span></code></li><li class=3D"=
+L2"><code class=3D"language-java"><span class=3D"com"> */</span><=
+/code></li><li class=3D"L3"><code class=3D"language-java"><span c=
+lass=3D"kwd">public</span><span class=3D"pln"> </span><span class=
+=3D"kwd">class</span><span class=3D"pln"> </span><span class=3D"t=
+yp">PrePareStatementDemo</span><span class=3D"pln"> </span><span=20=
+class=3D"pun">{</span></code></li><li class=3D"L4"><code class=3D=
+"language-java"></code></li><li class=3D"L5"><code class=3D"langu=
+age-java"><span class=3D"pln">	</span><span class=3D"kwd">public<=
+/span><span class=3D"pln"> </span><span class=3D"kwd">static</spa=
+n><span class=3D"pln"> </span><span class=3D"kwd">void</span><spa=
+n class=3D"pln"> main</span><span class=3D"pun">(</span><span cla=
+ss=3D"typ">String</span><span class=3D"pun">[]</span><span class=3D=
+"pln"> args</span><span class=3D"pun">)</span><span class=3D"pln"=
+> </span><span class=3D"pun">{</span></code></li><li class=3D"L6"=
+><code class=3D"language-java"><span class=3D"pln">		</span><span=
+ class=3D"typ">Connection</span><span class=3D"pln"> connection <=
+/span><span class=3D"pun">=3D</span><span class=3D"pln"> </span><=
+span class=3D"kwd">null</span><span class=3D"pun">;</span></code>=
+</li><li class=3D"L7"><code class=3D"language-java"><span class=3D=
+"pln">		</span><span class=3D"typ">PreparedStatement</span><span=20=
+class=3D"pln"> statement </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"kwd">null</span><span cla=
+ss=3D"pun">;</span></code></li><li class=3D"L8"><code class=3D"la=
+nguage-java"><span class=3D"pln">		</span><span class=3D"com">//=B5=
+=B1=D3=C3=BB=A7=B5=C4=B2=CE=CA=FD=CA=E4=C8=EB=CD=EA=B1=CF=D6=AE=BA=
+=F3=A3=AC=CE=D2=C3=C7=D6=B4=D0=D0sql</span></code></li><li class=3D=
+"L9"><code class=3D"language-java"><span class=3D"pln">		</span><=
+span class=3D"typ">ResultSet</span><span class=3D"pln"> resultSet=
+ </span><span class=3D"pun">=3D</span><span class=3D"pln"> </span=
+><span class=3D"kwd">null</span><span class=3D"pun">;</span></cod=
+e></li><li class=3D"L0"><code class=3D"language-java"><span class=
+=3D"pln">		</span><span class=3D"kwd">try</span><span class=3D"pl=
+n"> </span><span class=3D"pun">{</span></code></li><li class=3D"L=
+1"><code class=3D"language-java"><span class=3D"pln">			</span><s=
+pan class=3D"com">// =BD=D3=CA=D5=D3=C3=BB=A7=CA=E4=C8=EB=B5=C4=D5=
+=CB=BA=C5=BA=CD=C3=DC=C2=EB</span></code></li><li class=3D"L2"><c=
+ode class=3D"language-java"><span class=3D"pln">			</span><span c=
+lass=3D"typ">String</span><span class=3D"pln"> username </span><s=
+pan class=3D"pun">=3D</span><span class=3D"pln"> </span><span cla=
+ss=3D"str">"lisi'-- "</span><span class=3D"pun">;</span></code></=
+li><li class=3D"L3"><code class=3D"language-java"><span class=3D"=
+pln">			</span><span class=3D"typ">String</span><span class=3D"pl=
+n"> password </span><span class=3D"pun">=3D</span><span class=3D"=
+pln"> </span><span class=3D"str">"456789"</span><span class=3D"pu=
+n">;</span></code></li><li class=3D"L4"><code class=3D"language-j=
+ava"></code></li><li class=3D"L5"><code class=3D"language-java"><=
+span class=3D"pln">			connection </span><span class=3D"pun">=3D</=
+span><span class=3D"pln"> </span><span class=3D"typ">JdbcUtil</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">getConnection<=
+/span><span class=3D"pun">();</span></code></li><li class=3D"L6">=
+<code class=3D"language-java"><span class=3D"pln">			</span><span=
+ class=3D"com">//=CD=A8=B9=FD=C1=AC=BD=D3=BB=F1=C8=A1=D2=BB=B8=F6=
+=BF=C9=D2=D4=BD=F8=D0=D0=D4=A4=B1=E0=D2=EB=B5=C4statement</span><=
+/code></li><li class=3D"L7"><code class=3D"language-java"><span c=
+lass=3D"pln">			</span><span class=3D"com">/*</span></code></li><=
+li class=3D"L8"><code class=3D"language-java"><span class=3D"com"=
+>			-- =D4=A4=B1=E0=D2=EB=A3=AC=D4=DA=D3=C3=BB=A7=CA=E4=C8=EB=B2=CE=
+=CA=FD=D6=AE=C7=B0=CF=C8=B6=D4sql=BD=F8=D0=D0=B1=E0=D2=EB=C8=B7=B6=
+=A8sql=B5=C4=D3=EF=D2=E5=A3=AC=B1=E0=D2=EB=CD=EA=B1=CF=D6=AE=BA=F3=
+=B2=C5=BD=AB=B6=D4=D3=A6=D3=C3=BB=A7=B5=C4=B2=CE=CA=FD</span></co=
+de></li><li class=3D"L9"><code class=3D"language-java"><span clas=
+s=3D"com">			-- 	=CA=E4=C8=EB=BD=F8=C0=B4</span></code></li><li c=
+lass=3D"L0"><code class=3D"language-java"><span class=3D"com">		=09=
+select count(*) from user where username =3D ? and password =3D ?=
+</span></code></li><li class=3D"L1"><code class=3D"language-java"=
+><span class=3D"com">			-- =D4=A4=B1=E0=D2=EB=CA=B1=A3=AC=CE=D2=C3=
+=C7=D2=AA=CA=B9=D3=C3=D5=BC=CE=BB=B7=FB?=C0=B4=BD=F8=D0=D0=D5=BC=CE=
+=BB</span></code></li><li class=3D"L2"><code class=3D"language-ja=
+va"><span class=3D"com">			 */</span></code></li><li class=3D"L3"=
+><code class=3D"language-java"><span class=3D"pln">			</span><spa=
+n class=3D"typ">String</span><span class=3D"pln"> sql </span><spa=
+n class=3D"pun">=3D</span><span class=3D"pln"> </span><span class=
+=3D"str">"select count(*) from user where username =3D ? and pass=
+word =3D ?"</span><span class=3D"pun">;</span></code></li><li cla=
+ss=3D"L4"><code class=3D"language-java"><span class=3D"pln">			st=
+atement </span><span class=3D"pun">=3D</span><span class=3D"pln">=
+ connection</span><span class=3D"pun">.</span><span class=3D"pln"=
+>prepareStatement</span><span class=3D"pun">(</span><span class=3D=
+"pln">sql</span><span class=3D"pun">);</span></code></li><li clas=
+s=3D"L5"><code class=3D"language-java"><span class=3D"pln">			</s=
+pan><span class=3D"com">//=D4=A4=B1=E0=D2=EB=D6=AE=BA=F3=B4=AB=B5=
+=DD=D3=C3=BB=A7=B5=C4=B2=CE=CA=FD</span></code></li><li class=3D"=
+L6"><code class=3D"language-java"><span class=3D"pln">			statemen=
+t</span><span class=3D"pun">.</span><span class=3D"pln">setString=
+</span><span class=3D"pun">(</span><span class=3D"lit">1</span><s=
+pan class=3D"pun">,</span><span class=3D"pln"> username</span><sp=
+an class=3D"pun">);</span></code></li><li class=3D"L7"><code clas=
+s=3D"language-java"><span class=3D"pln">			statement</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">setString</span><span c=
+lass=3D"pun">(</span><span class=3D"lit">2</span><span class=3D"p=
+un">,</span><span class=3D"pln"> password</span><span class=3D"pu=
+n">);</span></code></li><li class=3D"L8"><code class=3D"language-=
+java"><span class=3D"pln">			resultSet </span><span class=3D"pun"=
+>=3D</span><span class=3D"pln"> statement</span><span class=3D"pu=
+n">.</span><span class=3D"pln">executeQuery</span><span class=3D"=
+pun">();</span></code></li><li class=3D"L9"><code class=3D"langua=
+ge-java"><span class=3D"pln">			</span><span class=3D"kwd">int</s=
+pan><span class=3D"pln"> count </span><span class=3D"pun">=3D</sp=
+an><span class=3D"pln"> </span><span class=3D"lit">0</span><span=20=
+class=3D"pun">;</span></code></li><li class=3D"L0"><code class=3D=
+"language-java"><span class=3D"pln">			</span><span class=3D"kwd"=
+>if</span><span class=3D"pun">(</span><span class=3D"pln">resultS=
+et</span><span class=3D"pun">.</span><span class=3D"pln">next</sp=
+an><span class=3D"pun">()){</span></code></li><li class=3D"L1"><c=
+ode class=3D"language-java"><span class=3D"pln">				count </span>=
+<span class=3D"pun">=3D</span><span class=3D"pln"> resultSet</spa=
+n><span class=3D"pun">.</span><span class=3D"pln">getInt</span><s=
+pan class=3D"pun">(</span><span class=3D"str">"count(*)"</span><s=
+pan class=3D"pun">);</span></code></li><li class=3D"L2"><code cla=
+ss=3D"language-java"><span class=3D"pln">			</span><span class=3D=
+"pun">}</span></code></li><li class=3D"L3"><code class=3D"languag=
+e-java"><span class=3D"pln">			</span><span class=3D"com">//=C8=E7=
+=B9=FBcount=CA=C70=D4=F2=B5=C7=C2=BC=CA=A7=B0=DC</span></code></l=
+i><li class=3D"L4"><code class=3D"language-java"><span class=3D"p=
+ln">			</span><span class=3D"kwd">if</span><span class=3D"pun">(<=
+/span><span class=3D"pln">count </span><span class=3D"pun">=3D=3D=
+</span><span class=3D"pln"> </span><span class=3D"lit">0</span><s=
+pan class=3D"pun">){</span></code></li><li class=3D"L5"><code cla=
+ss=3D"language-java"><span class=3D"pln">				</span><span class=3D=
+"typ">System</span><span class=3D"pun">.</span><span class=3D"pln=
+">out</span><span class=3D"pun">.</span><span class=3D"pln">print=
+ln</span><span class=3D"pun">(</span><span class=3D"str">"=B5=C7=C2=
+=BC=CA=A7=B0=DC"</span><span class=3D"pun">);</span></code></li><=
+li class=3D"L6"><code class=3D"language-java"><span class=3D"pln"=
+>			</span><span class=3D"pun">}</span><span class=3D"kwd">else</=
+span><span class=3D"pun">{</span></code></li><li class=3D"L7"><co=
+de class=3D"language-java"><span class=3D"pln">				</span><span c=
+lass=3D"typ">System</span><span class=3D"pun">.</span><span class=
+=3D"pln">out</span><span class=3D"pun">.</span><span class=3D"pln=
+">println</span><span class=3D"pun">(</span><span class=3D"str">"=
+=B5=C7=C2=BC=B3=C9=B9=A6"</span><span class=3D"pun">);</span></co=
+de></li><li class=3D"L8"><code class=3D"language-java"><span clas=
+s=3D"pln">			</span><span class=3D"pun">}</span></code></li><li c=
+lass=3D"L9"><code class=3D"language-java"><span class=3D"pln">		<=
+/span><span class=3D"pun">}</span><span class=3D"pln"> </span><sp=
+an class=3D"kwd">catch</span><span class=3D"pln"> </span><span cl=
+ass=3D"pun">(</span><span class=3D"typ">SQLException</span><span=20=
+class=3D"pln"> e</span><span class=3D"pun">)</span><span class=3D=
+"pln"> </span><span class=3D"pun">{</span></code></li><li class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">			</span>=
+<span class=3D"com">// TODO Auto-generated catch block</span></co=
+de></li><li class=3D"L1"><code class=3D"language-java"><span clas=
+s=3D"pln">			e</span><span class=3D"pun">.</span><span class=3D"p=
+ln">printStackTrace</span><span class=3D"pun">();</span></code></=
+li><li class=3D"L2"><code class=3D"language-java"><span class=3D"=
+pln">		</span><span class=3D"pun">}</span><span class=3D"kwd">fin=
+ally</span><span class=3D"pln"> </span><span class=3D"pun">{</spa=
+n></code></li><li class=3D"L3"><code class=3D"language-java"><spa=
+n class=3D"pln">			</span><span class=3D"typ">JdbcUtil</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">release</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">resultSet</span><span cl=
+ass=3D"pun">,</span><span class=3D"pln">statement</span><span cla=
+ss=3D"pun">,</span><span class=3D"pln">connection</span><span cla=
+ss=3D"pun">);</span></code></li><li class=3D"L4"><code class=3D"l=
+anguage-java"><span class=3D"pln">		</span><span class=3D"pun">}<=
+/span></code></li><li class=3D"L5"><code class=3D"language-java">=
+<span class=3D"pln">		</span></code></li><li class=3D"L6"><code c=
+lass=3D"language-java"><span class=3D"pln">	</span><span class=3D=
+"pun">}</span></code></li><li class=3D"L7"><code class=3D"languag=
+e-java"></code></li><li class=3D"L8"><code class=3D"language-java=
+"><span class=3D"pun">}</span></code></li></ol></pre></div><div><=
+br></div></div>02_=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=B5=C4=B8=C5=
+=C4=EE<div><br><div><div>03_=D7=D4=B6=A8=D2=E5=CA=FD=BE=DD=BF=E2=C1=
+=AC=BD=D3=B3=D8=B5=C4=CA=B5=CF=D6</div><div><div><pre class=3D"pr=
+ettyprint linenums prettyprinted"><ol class=3D"linenums"><li clas=
+s=3D"L0"><code class=3D"language-java"><span class=3D"kwd">packag=
+e</span><span class=3D"pln"> com</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">itheima</span><span class=3D"pun">.</span><=
+span class=3D"pln">datasource_02</span><span class=3D"pun">;</spa=
+n></code></li><li class=3D"L1"><code class=3D"language-java"></co=
+de></li><li class=3D"L2"><code class=3D"language-java"><span clas=
+s=3D"kwd">import</span><span class=3D"pln"> java</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">io</span><span class=3D"pun=
+">.</span><span class=3D"typ">PrintWriter</span><span class=3D"pu=
+n">;</span></code></li><li class=3D"L3"><code class=3D"language-j=
+ava"><span class=3D"kwd">import</span><span class=3D"pln"> java</=
+span><span class=3D"pun">.</span><span class=3D"pln">sql</span><s=
+pan class=3D"pun">.</span><span class=3D"typ">Connection</span><s=
+pan class=3D"pun">;</span></code></li><li class=3D"L4"><code clas=
+s=3D"language-java"><span class=3D"kwd">import</span><span class=3D=
+"pln"> java</span><span class=3D"pun">.</span><span class=3D"pln"=
+>sql</span><span class=3D"pun">.</span><span class=3D"typ">SQLExc=
+eption</span><span class=3D"pun">;</span></code></li><li class=3D=
+"L5"><code class=3D"language-java"><span class=3D"kwd">import</sp=
+an><span class=3D"pln"> java</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">sql</span><span class=3D"pun">.</span><span cla=
+ss=3D"typ">SQLFeatureNotSupportedException</span><span class=3D"p=
+un">;</span></code></li><li class=3D"L6"><code class=3D"language-=
+java"><span class=3D"kwd">import</span><span class=3D"pln"> java<=
+/span><span class=3D"pun">.</span><span class=3D"pln">util</span>=
+<span class=3D"pun">.</span><span class=3D"typ">LinkedList</span>=
+<span class=3D"pun">;</span></code></li><li class=3D"L7"><code cl=
+ass=3D"language-java"><span class=3D"kwd">import</span><span clas=
+s=3D"pln"> java</span><span class=3D"pun">.</span><span class=3D"=
+pln">util</span><span class=3D"pun">.</span><span class=3D"pln">l=
+ogging</span><span class=3D"pun">.</span><span class=3D"typ">Logg=
+er</span><span class=3D"pun">;</span></code></li><li class=3D"L8"=
+><code class=3D"language-java"></code></li><li class=3D"L9"><code=
+ class=3D"language-java"><span class=3D"kwd">import</span><span c=
+lass=3D"pln"> javax</span><span class=3D"pun">.</span><span class=
+=3D"pln">sql</span><span class=3D"pun">.</span><span class=3D"typ=
+">DataSource</span><span class=3D"pun">;</span></code></li><li cl=
+ass=3D"L0"><code class=3D"language-java"></code></li><li class=3D=
+"L1"><code class=3D"language-java"><span class=3D"kwd">import</sp=
+an><span class=3D"pln"> com</span><span class=3D"pun">.</span><sp=
+an class=3D"pln">itheima</span><span class=3D"pun">.</span><span=20=
+class=3D"pln">sh</span><span class=3D"pun">.</span><span class=3D=
+"pln">utils_04</span><span class=3D"pun">.</span><span class=3D"t=
+yp">JdbcUtil</span><span class=3D"pun">;</span></code></li><li cl=
+ass=3D"L2"><code class=3D"language-java"><span class=3D"com" styl=
+e=3D"background-color: rgb(255, 255, 0);">/*</span></code></li><l=
+i class=3D"L3"><code class=3D"language-java"><span class=3D"com"=20=
+style=3D"background-color: rgb(255, 255, 0);"> * =D7=D4=B6=A8=D2=E5=
+=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=B5=C4=B2=BD=D6=E8=A3=BA</spa=
+n></code></li><li class=3D"L4"><code class=3D"language-java"><spa=
+n class=3D"com" style=3D"background-color: rgb(255, 255, 0);"> *=20=
+1.=CA=B5=CF=D6implements DataSource</span></code></li><li class=3D=
+"L5"><code class=3D"language-java"><span class=3D"com" style=3D"b=
+ackground-color: rgb(255, 255, 0);"> * 2.=B9=D8=D7=A2getConnectio=
+n=B7=BD=B7=A8</span></code></li><li class=3D"L6"><code class=3D"l=
+anguage-java"><span class=3D"com" style=3D"background-color: rgb(=
+255, 255, 0);"> * 3.=B4=B4=BD=A8=D2=BB=B8=F6=B4=E6=B7=C5=C1=AC=BD=
+=D3=B5=C4=C8=DD=C6=F7</span></code></li><li class=3D"L7"><code cl=
+ass=3D"language-java"><span class=3D"com" style=3D"background-col=
+or: rgb(255, 255, 0);"> * 4.=D4=DA=B9=B9=D4=EC=B7=BD=B7=A8=D6=D0=B4=
+=B4=BD=A8=D2=BB=D0=A9=C1=AC=BD=D3=B8=F8=C8=DD=C6=F7=D6=D0</span><=
+/code></li><li class=3D"L8"><code class=3D"language-java"><span c=
+lass=3D"com" style=3D"background-color: rgb(255, 255, 0);"> * 5.=CA=
+=B5=CF=D6getConnection=B7=BD=B7=A8=A3=AC=B4=D3=C8=DD=C6=F7pools=D6=
+=D0=BB=F1=C8=A1=C1=AC=BD=D3</span></code></li><li class=3D"L9"><c=
+ode class=3D"language-java"><span class=3D"com" style=3D"backgrou=
+nd-color: rgb(255, 255, 0);"> * 6.=B5=B1=C1=AC=BD=D3=CA=B9=D3=C3=CD=
+=EA=B1=CF=D6=AE=BA=F3=A3=AC=B1=D8=D0=EB=B7=C5=BB=D8=C1=AC=BD=D3=B3=
+=D8=D6=D0</span></code></li><li class=3D"L0"><code class=3D"langu=
+age-java"><span class=3D"com" style=3D"background-color: rgb(255,=
+ 255, 0);"> */</span></code></li><li class=3D"L1"><code class=3D"=
+language-java"><span class=3D"kwd">public</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">class</span><span class=3D"pln"> <=
+/span><span class=3D"typ">MyDataSource</span><span class=3D"pln">=
+ </span><span class=3D"kwd">implements</span><span class=3D"pln">=
+ </span><span class=3D"typ">DataSource</span><span class=3D"pln">=
+ </span><span class=3D"pun">{</span></code></li><li class=3D"L2">=
+<code class=3D"language-java"><span class=3D"pln">	</span><span c=
+lass=3D"com">//=B4=B4=BD=A8=D2=BB=B8=F6=B4=E6=B7=C5=C1=AC=BD=D3=B5=
+=C4=C8=DD=C6=F7=A3=A8=B2=E9=D1=AF=BF=ECarraylist=A3=A9=A3=A8=D4=F6=
+=C9=BE=BF=ECLinkedList=A3=A9</span></code></li><li class=3D"L3"><=
+code class=3D"language-java"><span class=3D"pln">	</span><span cl=
+ass=3D"com">//=D7=A2=D2=E2=C8=DD=C6=F7=D6=F7=D2=AA=D7=F6=B5=C4=CA=
+=C7=D4=F6=C9=BE=D2=AA=CA=B9=D3=C3LinkedList</span></code></li><li=
+ class=3D"L4"><code class=3D"language-java"><span class=3D"pln">=09=
+</span><span class=3D"kwd">private</span><span class=3D"pln"> </s=
+pan><span class=3D"kwd">static</span><span class=3D"pln"> </span>=
+<span class=3D"typ">LinkedList</span><span class=3D"pun">&lt;</sp=
+an><span class=3D"typ">Connection</span><span class=3D"pun">&gt;<=
+/span><span class=3D"pln">  pools </span><span class=3D"pun">=3D<=
+/span><span class=3D"pln"> </span><span class=3D"kwd">new</span><=
+span class=3D"pln"> </span><span class=3D"typ">LinkedList</span><=
+span class=3D"pun">&lt;&gt;();</span></code></li><li class=3D"L5"=
+><code class=3D"language-java"><span class=3D"pln">	</span></code=
+></li><li class=3D"L6"><code class=3D"language-java"><span class=3D=
+"pln">	</span><span class=3D"com">//=D4=DA=B9=B9=D4=EC=B7=BD=B7=A8=
+=D6=D0=B4=B4=BD=A8=D2=BB=D0=A9=C1=AC=BD=D3=B8=F8=C8=DD=C6=F7=D6=D0=
+</span></code></li><li class=3D"L7"><code class=3D"language-java"=
+><span class=3D"pln">	</span><span class=3D"kwd">public</span><sp=
+an class=3D"pln"> </span><span class=3D"typ">MyDataSource</span><=
+span class=3D"pun">()</span><span class=3D"pln"> </span><span cla=
+ss=3D"pun">{</span></code></li><li class=3D"L8"><code class=3D"la=
+nguage-java"><span class=3D"pln">		</span><span class=3D"com">//=B4=
+=B4=BD=A810=B8=F6=C1=AC=BD=D3=B7=C5=D6=C3=B5=BD=C8=DD=C6=F7=D6=D0=
+</span></code></li><li class=3D"L9"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"kwd">for</span><span=
+ class=3D"pln"> </span><span class=3D"pun">(</span><span class=3D=
+"kwd">int</span><span class=3D"pln"> i </span><span class=3D"pun"=
+>=3D</span><span class=3D"pln"> </span><span class=3D"lit">0</spa=
+n><span class=3D"pun">;</span><span class=3D"pln"> i </span><span=
+ class=3D"pun">&lt;</span><span class=3D"pln"> </span><span class=
+=3D"lit">10</span><span class=3D"pun">;</span><span class=3D"pln"=
+> i</span><span class=3D"pun">++)</span><span class=3D"pln"> </sp=
+an><span class=3D"pun">{</span></code></li><li class=3D"L0"><code=
+ class=3D"language-java"><span class=3D"pln">			</span><span clas=
+s=3D"typ">Connection</span><span class=3D"pln"> connection </span=
+><span class=3D"pun">=3D</span><span class=3D"pln"> </span><span=20=
+class=3D"typ">JdbcUtil</span><span class=3D"pun">.</span><span cl=
+ass=3D"pln">getConnection</span><span class=3D"pun">();</span></c=
+ode></li><li class=3D"L1"><code class=3D"language-java"><span cla=
+ss=3D"pln">			pools</span><span class=3D"pun">.</span><span class=
+=3D"pln">addLast</span><span class=3D"pun">(</span><span class=3D=
+"pln">connection</span><span class=3D"pun">);</span></code></li><=
+li class=3D"L2"><code class=3D"language-java"><span class=3D"pln"=
+>		</span><span class=3D"pun">}</span></code></li><li class=3D"L3=
+"><code class=3D"language-java"><span class=3D"pln">		</span></co=
+de></li><li class=3D"L4"><code class=3D"language-java"><span clas=
+s=3D"pln">		</span><span class=3D"typ">System</span><span class=3D=
+"pun">.</span><span class=3D"pln">out</span><span class=3D"pun">.=
+</span><span class=3D"pln">println</span><span class=3D"pun">(</s=
+pan><span class=3D"str">"=B4=B4=BD=A8=C1=CB=CA=FD=BE=DD=BF=E2=C1=AC=
+=BD=D3=B3=D8=C8=DD=C6=F7=A3=AC=C8=DD=C6=F7=D6=D0=D3=D0"</span><sp=
+an class=3D"pun">+</span><span class=3D"pln">pools</span><span cl=
+ass=3D"pun">.</span><span class=3D"pln">size</span><span class=3D=
+"pun">()+</span><span class=3D"str">"=B8=F6=C1=AC=BD=D3"</span><s=
+pan class=3D"pun">);</span></code></li><li class=3D"L5"><code cla=
+ss=3D"language-java"><span class=3D"pln">	</span><span class=3D"p=
+un">}</span></code></li><li class=3D"L6"><code class=3D"language-=
+java"></code></li><li class=3D"L7"><code class=3D"language-java">=
+<span class=3D"pln">	</span></code></li><li class=3D"L8"><code cl=
+ass=3D"language-java"><span class=3D"pln">	</span></code></li><li=
+ class=3D"L9"><code class=3D"language-java"><span class=3D"pln">=09=
+</span><span class=3D"com">//=B4=D3=B4=E6=B7=C5=C1=AC=BD=D3=B5=C4=
+=C8=DD=C6=F7=D6=D0=BB=F1=C8=A1=C1=AC=BD=D3</span></code></li><li=20=
+class=3D"L0"><code class=3D"language-java"><span class=3D"pln">	<=
+/span><span class=3D"lit">@Override</span></code></li><li class=3D=
+"L1"><code class=3D"language-java"><span class=3D"pln">	</span><s=
+pan class=3D"kwd">public</span><span class=3D"pln"> </span><span=20=
+class=3D"typ">Connection</span><span class=3D"pln"> getConnection=
+</span><span class=3D"pun">()</span><span class=3D"pln"> </span><=
+span class=3D"kwd">throws</span><span class=3D"pln"> </span><span=
+ class=3D"typ">SQLException</span><span class=3D"pln"> </span><sp=
+an class=3D"pun">{</span></code></li><li class=3D"L2"><code class=
+=3D"language-java"><span class=3D"pln">		</span><span class=3D"co=
+m">//=D2=AA=C5=D0=B6=CF=C8=DD=C6=F7=D6=D0=CA=C7=B7=F1=D3=D0=C1=AC=
+=BD=D3=A3=AC=C8=E7=B9=FB=D3=D0=B2=C5=BB=F1=C8=A1=A3=AC=C8=E7=B9=FB=
+=C3=BB=D3=D0=BE=CD=D0=C2=BD=A8=D2=BB=D0=A9</span></code></li><li=20=
+class=3D"L3"><code class=3D"language-java"><span class=3D"pln">	=09=
+</span><span class=3D"kwd">if</span><span class=3D"pun">(</span><=
+span class=3D"pln">pools</span><span class=3D"pun">.</span><span=20=
+class=3D"pln">size</span><span class=3D"pun">()</span><span class=
+=3D"pln"> </span><span class=3D"pun">=3D=3D</span><span class=3D"=
+pln"> </span><span class=3D"lit">0</span><span class=3D"pun">){</=
+span></code></li><li class=3D"L4"><code class=3D"language-java"><=
+span class=3D"pln">			</span><span class=3D"com">//=C8=DD=C6=F7=D6=
+=D0 =C3=BB=D3=D0=C1=AC=BD=D3=C1=CB=A3=AC=D4=D9=B4=B4=BD=A8=D2=BB=D0=
+=A9=A3=AC=C8=B7=B1=A3=A3=AC=C1=AC=BD=D3=C4=DC=B9=BB=B1=BB=D5=E6=D5=
+=FD=B5=D8=BB=F1=C8=A1=B5=BD</span></code></li><li class=3D"L5"><c=
+ode class=3D"language-java"><span class=3D"pln">			</span><span c=
+lass=3D"kwd">for</span><span class=3D"pln"> </span><span class=3D=
+"pun">(</span><span class=3D"kwd">int</span><span class=3D"pln">=20=
+i </span><span class=3D"pun">=3D</span><span class=3D"pln"> </spa=
+n><span class=3D"lit">0</span><span class=3D"pun">;</span><span c=
+lass=3D"pln"> i </span><span class=3D"pun">&lt;</span><span class=
+=3D"pln"> </span><span class=3D"lit">3</span><span class=3D"pun">=
+;</span><span class=3D"pln"> i</span><span class=3D"pun">++)</spa=
+n><span class=3D"pln"> </span><span class=3D"pun">{</span></code>=
+</li><li class=3D"L6"><code class=3D"language-java"><span class=3D=
+"pln">				</span><span class=3D"typ">Connection</span><span class=
+=3D"pln"> connection </span><span class=3D"pun">=3D</span><span c=
+lass=3D"pln"> </span><span class=3D"typ">JdbcUtil</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">getConnection</span><span=20=
+class=3D"pun">();</span></code></li><li class=3D"L7"><code class=3D=
+"language-java"><span class=3D"pln">				pools</span><span class=3D=
+"pun">.</span><span class=3D"pln">addLast</span><span class=3D"pu=
+n">(</span><span class=3D"pln">connection</span><span class=3D"pu=
+n">);</span></code></li><li class=3D"L8"><code class=3D"language-=
+java"><span class=3D"pln">			</span><span class=3D"pun">}</span><=
+/code></li><li class=3D"L9"><code class=3D"language-java"><span c=
+lass=3D"pln">		</span><span class=3D"pun">}</span></code></li><li=
+ class=3D"L0"><code class=3D"language-java"><span class=3D"pln">=09=
+	</span></code></li><li class=3D"L1"><code class=3D"language-java=
+"><span class=3D"pln">		</span><span class=3D"typ">Connection</sp=
+an><span class=3D"pln"> connection </span><span class=3D"pun">=3D=
+</span><span class=3D"pln"> pools</span><span class=3D"pun">.</sp=
+an><span class=3D"pln">removeFirst</span><span class=3D"pun">();<=
+/span><span class=3D"com">//=D2=AA=B4=D3=C8=DD=C6=F7=D6=D0=BB=F1=C8=
+=A1=C1=AC=BD=D3=A3=AC=B2=A2=C7=D2=B1=F0=C8=CB=D4=D9=D2=B2=BB=F1=C8=
+=A1=B2=BB=B5=BD=CB=F9=D2=D4=B1=D8=D0=EB=CA=B9=D3=C3removeFirst=B7=
+=BD=B7=A8</span></code></li><li class=3D"L2"><code class=3D"langu=
+age-java"><span class=3D"pln">		</span><span class=3D"typ">System=
+</span><span class=3D"pun">.</span><span class=3D"pln">out</span>=
+<span class=3D"pun">.</span><span class=3D"pln">println</span><sp=
+an class=3D"pun">(</span><span class=3D"str">"=B4=D3=C1=AC=BD=D3=B3=
+=D8=D6=D0=BB=F1=C8=A1=C1=CB=C1=AC=BD=D3=A3=AC=B5=B1=C7=B0=BB=B9=D3=
+=D0"</span><span class=3D"pun">+</span><span class=3D"pln">pools<=
+/span><span class=3D"pun">.</span><span class=3D"pln">size</span>=
+<span class=3D"pun">()+</span><span class=3D"str">"=B8=F6=C1=AC=BD=
+=D3"</span><span class=3D"pun">);</span></code></li><li class=3D"=
+L3"><code class=3D"language-java"><span class=3D"pln">		</span><s=
+pan class=3D"kwd">return</span><span class=3D"pln"> connection</s=
+pan><span class=3D"pun">;</span></code></li><li class=3D"L4"><cod=
+e class=3D"language-java"><span class=3D"pln">	</span><span class=
+=3D"pun">}</span></code></li><li class=3D"L5"><code class=3D"lang=
+uage-java"><span class=3D"pln">	</span></code></li><li class=3D"L=
+6"><code class=3D"language-java"><span class=3D"pln">	</span><spa=
+n class=3D"com">//=B5=B1=C1=AC=BD=D3=CA=B9=D3=C3=CD=EA=B1=CF=D6=AE=
+=BA=F3=A3=AC=B1=D8=D0=EB=B7=C5=BB=D8=C1=AC=BD=D3=B3=D8=D6=D0</spa=
+n></code></li><li class=3D"L7"><code class=3D"language-java"><spa=
+n class=3D"pln">	</span><span class=3D"kwd">public</span><span cl=
+ass=3D"pln"> </span><span class=3D"kwd">void</span><span class=3D=
+"pln"> backToPools</span><span class=3D"pun">(</span><span class=3D=
+"typ">Connection</span><span class=3D"pln"> connection</span><spa=
+n class=3D"pun">){</span></code></li><li class=3D"L8"><code class=
+=3D"language-java"><span class=3D"pln">		pools</span><span class=3D=
+"pun">.</span><span class=3D"pln">addLast</span><span class=3D"pu=
+n">(</span><span class=3D"pln">connection</span><span class=3D"pu=
+n">);</span></code></li><li class=3D"L9"><code class=3D"language-=
+java"><span class=3D"pln">		</span><span class=3D"typ">System</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">out</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">println</span><span c=
+lass=3D"pun">(</span><span class=3D"str">"=C1=AC=BD=D3=CA=B9=D3=C3=
+=CD=EA=B1=CF=A3=AC=B7=C5=BB=D8=C8=DD=C6=F7=A3=AC=B5=B1=C7=B0=C8=DD=
+=C6=F7=D6=D0=D3=D0"</span><span class=3D"pun">+</span><span class=
+=3D"pln">pools</span><span class=3D"pun">.</span><span class=3D"p=
+ln">size</span><span class=3D"pun">()+</span><span class=3D"str">=
+"=B8=F6=C1=AC=BD=D3"</span><span class=3D"pun">);</span></code></=
+li><li class=3D"L0"><code class=3D"language-java"><span class=3D"=
+pln">	</span><span class=3D"pun">}</span></code></li><li class=3D=
+"L1"><code class=3D"language-java"><span class=3D"pln">	</span></=
+code></li><li class=3D"L2"><code class=3D"language-java"></code><=
+/li><li class=3D"L3"><code class=3D"language-java"></code></li><l=
+i class=3D"L4"><code class=3D"language-java"></code></li><li clas=
+s=3D"L5"><code class=3D"language-java"></code></li><li class=3D"L=
+6"><code class=3D"language-java"><span class=3D"pln">	</span><spa=
+n class=3D"lit">@Override</span></code></li><li class=3D"L7"><cod=
+e class=3D"language-java"><span class=3D"pln">	</span><span class=
+=3D"kwd">public</span><span class=3D"pln"> </span><span class=3D"=
+typ">PrintWriter</span><span class=3D"pln"> getLogWriter</span><s=
+pan class=3D"pun">()</span><span class=3D"pln"> </span><span clas=
+s=3D"kwd">throws</span><span class=3D"pln"> </span><span class=3D=
+"typ">SQLException</span><span class=3D"pln"> </span><span class=3D=
+"pun">{</span></code></li><li class=3D"L8"><code class=3D"languag=
+e-java"><span class=3D"pln">		</span><span class=3D"com">// TODO=20=
+Auto-generated method stub</span></code></li><li class=3D"L9"><co=
+de class=3D"language-java"><span class=3D"pln">		</span><span cla=
+ss=3D"kwd">return</span><span class=3D"pln"> </span><span class=3D=
+"kwd">null</span><span class=3D"pun">;</span></code></li><li clas=
+s=3D"L0"><code class=3D"language-java"><span class=3D"pln">	</spa=
+n><span class=3D"pun">}</span></code></li><li class=3D"L1"><code=20=
+class=3D"language-java"></code></li><li class=3D"L2"><code class=3D=
+"language-java"><span class=3D"pln">	</span><span class=3D"lit">@=
+Override</span></code></li><li class=3D"L3"><code class=3D"langua=
+ge-java"><span class=3D"pln">	</span><span class=3D"kwd">public</=
+span><span class=3D"pln"> </span><span class=3D"kwd">void</span><=
+span class=3D"pln"> setLogWriter</span><span class=3D"pun">(</spa=
+n><span class=3D"typ">PrintWriter</span><span class=3D"pln"> out<=
+/span><span class=3D"pun">)</span><span class=3D"pln"> </span><sp=
+an class=3D"kwd">throws</span><span class=3D"pln"> </span><span c=
+lass=3D"typ">SQLException</span><span class=3D"pln"> </span><span=
+ class=3D"pun">{</span></code></li><li class=3D"L4"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"com">=
+// TODO Auto-generated method stub</span></code></li><li class=3D=
+"L5"><code class=3D"language-java"></code></li><li class=3D"L6"><=
+code class=3D"language-java"><span class=3D"pln">	</span><span cl=
+ass=3D"pun">}</span></code></li><li class=3D"L7"><code class=3D"l=
+anguage-java"></code></li><li class=3D"L8"><code class=3D"languag=
+e-java"><span class=3D"pln">	</span><span class=3D"lit">@Override=
+</span></code></li><li class=3D"L9"><code class=3D"language-java"=
+><span class=3D"pln">	</span><span class=3D"kwd">public</span><sp=
+an class=3D"pln"> </span><span class=3D"kwd">void</span><span cla=
+ss=3D"pln"> setLoginTimeout</span><span class=3D"pun">(</span><sp=
+an class=3D"kwd">int</span><span class=3D"pln"> seconds</span><sp=
+an class=3D"pun">)</span><span class=3D"pln"> </span><span class=3D=
+"kwd">throws</span><span class=3D"pln"> </span><span class=3D"typ=
+">SQLException</span><span class=3D"pln"> </span><span class=3D"p=
+un">{</span></code></li><li class=3D"L0"><code class=3D"language-=
+java"><span class=3D"pln">		</span><span class=3D"com">// TODO Au=
+to-generated method stub</span></code></li><li class=3D"L1"><code=
+ class=3D"language-java"></code></li><li class=3D"L2"><code class=
+=3D"language-java"><span class=3D"pln">	</span><span class=3D"pun=
+">}</span></code></li><li class=3D"L3"><code class=3D"language-ja=
+va"></code></li><li class=3D"L4"><code class=3D"language-java"><s=
+pan class=3D"pln">	</span><span class=3D"lit">@Override</span></c=
+ode></li><li class=3D"L5"><code class=3D"language-java"><span cla=
+ss=3D"pln">	</span><span class=3D"kwd">public</span><span class=3D=
+"pln"> </span><span class=3D"kwd">int</span><span class=3D"pln">=20=
+getLoginTimeout</span><span class=3D"pun">()</span><span class=3D=
+"pln"> </span><span class=3D"kwd">throws</span><span class=3D"pln=
+"> </span><span class=3D"typ">SQLException</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span></code></li><li class=3D"=
+L6"><code class=3D"language-java"><span class=3D"pln">		</span><s=
+pan class=3D"com">// TODO Auto-generated method stub</span></code=
+></li><li class=3D"L7"><code class=3D"language-java"><span class=3D=
+"pln">		</span><span class=3D"kwd">return</span><span class=3D"pl=
+n"> </span><span class=3D"lit">0</span><span class=3D"pun">;</spa=
+n></code></li><li class=3D"L8"><code class=3D"language-java"><spa=
+n class=3D"pln">	</span><span class=3D"pun">}</span></code></li><=
+li class=3D"L9"><code class=3D"language-java"></code></li><li cla=
+ss=3D"L0"><code class=3D"language-java"><span class=3D"pln">	</sp=
+an><span class=3D"lit">@Override</span></code></li><li class=3D"L=
+1"><code class=3D"language-java"><span class=3D"pln">	</span><spa=
+n class=3D"kwd">public</span><span class=3D"pln"> </span><span cl=
+ass=3D"typ">Logger</span><span class=3D"pln"> getParentLogger</sp=
+an><span class=3D"pun">()</span><span class=3D"pln"> </span><span=
+ class=3D"kwd">throws</span><span class=3D"pln"> </span><span cla=
+ss=3D"typ">SQLFeatureNotSupportedException</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span></code></li><li class=3D"=
+L2"><code class=3D"language-java"><span class=3D"pln">		</span><s=
+pan class=3D"com">// TODO Auto-generated method stub</span></code=
+></li><li class=3D"L3"><code class=3D"language-java"><span class=3D=
+"pln">		</span><span class=3D"kwd">return</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">null</span><span class=3D"pun">;</=
+span></code></li><li class=3D"L4"><code class=3D"language-java"><=
+span class=3D"pln">	</span><span class=3D"pun">}</span></code></l=
+i><li class=3D"L5"><code class=3D"language-java"></code></li><li=20=
+class=3D"L6"><code class=3D"language-java"><span class=3D"pln">	<=
+/span><span class=3D"lit">@Override</span></code></li><li class=3D=
+"L7"><code class=3D"language-java"><span class=3D"pln">	</span><s=
+pan class=3D"kwd">public</span><span class=3D"pln"> </span><span=20=
+class=3D"pun">&lt;</span><span class=3D"pln">T</span><span class=3D=
+"pun">&gt;</span><span class=3D"pln"> T unwrap</span><span class=3D=
+"pun">(</span><span class=3D"typ">Class</span><span class=3D"pun"=
+>&lt;</span><span class=3D"pln">T</span><span class=3D"pun">&gt;<=
+/span><span class=3D"pln"> iface</span><span class=3D"pun">)</spa=
+n><span class=3D"pln"> </span><span class=3D"kwd">throws</span><s=
+pan class=3D"pln"> </span><span class=3D"typ">SQLException</span>=
+<span class=3D"pln"> </span><span class=3D"pun">{</span></code></=
+li><li class=3D"L8"><code class=3D"language-java"><span class=3D"=
+pln">		</span><span class=3D"com">// TODO Auto-generated method s=
+tub</span></code></li><li class=3D"L9"><code class=3D"language-ja=
+va"><span class=3D"pln">		</span><span class=3D"kwd">return</span=
+><span class=3D"pln"> </span><span class=3D"kwd">null</span><span=
+ class=3D"pun">;</span></code></li><li class=3D"L0"><code class=3D=
+"language-java"><span class=3D"pln">	</span><span class=3D"pun">}=
+</span></code></li><li class=3D"L1"><code class=3D"language-java"=
+></code></li><li class=3D"L2"><code class=3D"language-java"><span=
+ class=3D"pln">	</span><span class=3D"lit">@Override</span></code=
+></li><li class=3D"L3"><code class=3D"language-java"><span class=3D=
+"pln">	</span><span class=3D"kwd">public</span><span class=3D"pln=
+"> </span><span class=3D"kwd">boolean</span><span class=3D"pln">=20=
+isWrapperFor</span><span class=3D"pun">(</span><span class=3D"typ=
+">Class</span><span class=3D"pun">&lt;?&gt;</span><span class=3D"=
+pln"> iface</span><span class=3D"pun">)</span><span class=3D"pln"=
+> </span><span class=3D"kwd">throws</span><span class=3D"pln"> </=
+span><span class=3D"typ">SQLException</span><span class=3D"pln">=20=
+</span><span class=3D"pun">{</span></code></li><li class=3D"L4"><=
+code class=3D"language-java"><span class=3D"pln">		</span><span c=
+lass=3D"com">// TODO Auto-generated method stub</span></code></li=
+><li class=3D"L5"><code class=3D"language-java"><span class=3D"pl=
+n">		</span><span class=3D"kwd">return</span><span class=3D"pln">=
+ </span><span class=3D"kwd">false</span><span class=3D"pun">;</sp=
+an></code></li><li class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"pln">	</span><span class=3D"pun">}</span></code></li>=
+<li class=3D"L7"><code class=3D"language-java"></code></li><li cl=
+ass=3D"L8"><code class=3D"language-java"></code></li><li class=3D=
+"L9"><code class=3D"language-java"></code></li><li class=3D"L0"><=
+code class=3D"language-java"><span class=3D"pln">	</span><span cl=
+ass=3D"lit">@Override</span></code></li><li class=3D"L1"><code cl=
+ass=3D"language-java"><span class=3D"pln">	</span><span class=3D"=
+kwd">public</span><span class=3D"pln"> </span><span class=3D"typ"=
+>Connection</span><span class=3D"pln"> getConnection</span><span=20=
+class=3D"pun">(</span><span class=3D"typ">String</span><span clas=
+s=3D"pln"> username</span><span class=3D"pun">,</span><span class=
+=3D"pln"> </span><span class=3D"typ">String</span><span class=3D"=
+pln"> password</span><span class=3D"pun">)</span><span class=3D"p=
+ln"> </span><span class=3D"kwd">throws</span><span class=3D"pln">=
+ </span><span class=3D"typ">SQLException</span><span class=3D"pln=
+"> </span><span class=3D"pun">{</span></code></li><li class=3D"L2=
+"><code class=3D"language-java"><span class=3D"pln">		</span><spa=
+n class=3D"com">// TODO Auto-generated method stub</span></code><=
+/li><li class=3D"L3"><code class=3D"language-java"><span class=3D=
+"pln">		</span><span class=3D"kwd">return</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">null</span><span class=3D"pun">;</=
+span></code></li><li class=3D"L4"><code class=3D"language-java"><=
+span class=3D"pln">	</span><span class=3D"pun">}</span></code></l=
+i><li class=3D"L5"><code class=3D"language-java"></code></li><li=20=
+class=3D"L6"><code class=3D"language-java"><span class=3D"pun">}<=
+/span></code></li></ol></pre></div><div><br></div></div><div>04_=B6=
+=AF=CC=AC=B4=FA=C0=ED=CA=B5=CF=D6close=B7=BD=B7=A8</div><div><div=
+><pre class=3D"prettyprint linenums prettyprinted"><ol class=3D"l=
+inenums"><li class=3D"L0"><code class=3D"language-java"><span cla=
+ss=3D"pun">=D7=DC=BD=E1=A3=BA</span></code></li><li class=3D"L1">=
+<code class=3D"language-java"><span class=3D"pln">    </span><spa=
+n class=3D"pun">=CA=B9=D3=C3=B6=AF=CC=AC=B4=FA=C0=ED=D4=F6=C7=BF=C1=
+=CB</span><span class=3D"pln">connection</span><span class=3D"pun=
+">=B5=C4</span><span class=3D"pln">close</span><span class=3D"pun=
+">=B7=BD=B7=A8=A3=AC=CA=B9=D3=C3</span><span class=3D"pln">sun</s=
+pan><span class=3D"pun">=B9=AB=CB=BE=B5=C4=B9=E6=B7=B6=A3=AC=CA=B5=
+=CF=D6=C1=CB=C1=AC=BD=D3=B7=C5=BB=D8=C1=AC=BD=D3=B3=D8=B5=C4=C8=DD=
+=C6=F7=D6=D0</span></code></li></ol></pre></div><div><br></div></=
+div><div><br></div><div><div><pre class=3D"prettyprint linenums p=
+rettyprinted"><ol class=3D"linenums"><li class=3D"L0"><code class=
+=3D"language-java"><span class=3D"com">//=B4=D3=B4=E6=B7=C5=C1=AC=
+=BD=D3=B5=C4=C8=DD=C6=F7=D6=D0=BB=F1=C8=A1=C1=AC=BD=D3</span></co=
+de></li><li class=3D"L1"><code class=3D"language-java"><span clas=
+s=3D"pln">	</span><span class=3D"lit">@Override</span></code></li=
+><li class=3D"L2"><code class=3D"language-java"><span class=3D"pl=
+n">	</span><span class=3D"kwd">public</span><span class=3D"pln">=20=
+</span><span class=3D"typ">Connection</span><span class=3D"pln">=20=
+getConnection</span><span class=3D"pun">()</span><span class=3D"p=
+ln"> </span><span class=3D"kwd">throws</span><span class=3D"pln">=
+ </span><span class=3D"typ">SQLException</span><span class=3D"pln=
+"> </span><span class=3D"pun">{</span></code></li><li class=3D"L3=
+"><code class=3D"language-java"><span class=3D"pln">		</span><spa=
+n class=3D"com">//=D2=AA=C5=D0=B6=CF=C8=DD=C6=F7=D6=D0=CA=C7=B7=F1=
+=D3=D0=C1=AC=BD=D3=A3=AC=C8=E7=B9=FB=D3=D0=B2=C5=BB=F1=C8=A1=A3=AC=
+=C8=E7=B9=FB=C3=BB=D3=D0=BE=CD=D0=C2=BD=A8=D2=BB=D0=A9</span></co=
+de></li><li class=3D"L4"><code class=3D"language-java"><span clas=
+s=3D"pln">		</span><span class=3D"kwd">if</span><span class=3D"pu=
+n">(</span><span class=3D"pln">pools</span><span class=3D"pun">.<=
+/span><span class=3D"pln">size</span><span class=3D"pun">()</span=
+><span class=3D"pln"> </span><span class=3D"pun">=3D=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"lit">0</span><span class=3D=
+"pun">){</span></code></li><li class=3D"L5"><code class=3D"langua=
+ge-java"><span class=3D"pln">			</span><span class=3D"com">//=C8=DD=
+=C6=F7=D6=D0 =C3=BB=D3=D0=C1=AC=BD=D3=C1=CB=A3=AC=D4=D9=B4=B4=BD=A8=
+=D2=BB=D0=A9=A3=AC=C8=B7=B1=A3=A3=AC=C1=AC=BD=D3=C4=DC=B9=BB=B1=BB=
+=D5=E6=D5=FD=B5=D8=BB=F1=C8=A1=B5=BD</span></code></li><li class=3D=
+"L6"><code class=3D"language-java"><span class=3D"pln">			</span>=
+<span class=3D"kwd">for</span><span class=3D"pln"> </span><span c=
+lass=3D"pun">(</span><span class=3D"kwd">int</span><span class=3D=
+"pln"> i </span><span class=3D"pun">=3D</span><span class=3D"pln"=
+> </span><span class=3D"lit">0</span><span class=3D"pun">;</span>=
+<span class=3D"pln"> i </span><span class=3D"pun">&lt;</span><spa=
+n class=3D"pln"> </span><span class=3D"lit">3</span><span class=3D=
+"pun">;</span><span class=3D"pln"> i</span><span class=3D"pun">++=
+)</span><span class=3D"pln"> </span><span class=3D"pun">{</span><=
+/code></li><li class=3D"L7"><code class=3D"language-java"><span c=
+lass=3D"pln">				</span><span class=3D"typ">Connection</span><spa=
+n class=3D"pln"> connection </span><span class=3D"pun">=3D</span>=
+<span class=3D"pln"> </span><span class=3D"typ">JdbcUtil</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">getConnection</span=
+><span class=3D"pun">();</span></code></li><li class=3D"L8"><code=
+ class=3D"language-java"><span class=3D"pln">				pools</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">addLast</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">connection</span><span c=
+lass=3D"pun">);</span></code></li><li class=3D"L9"><code class=3D=
+"language-java"><span class=3D"pln">			</span><span class=3D"pun"=
+>}</span></code></li><li class=3D"L0"><code class=3D"language-jav=
+a"><span class=3D"pln">		</span><span class=3D"pun">}</span></cod=
+e></li><li class=3D"L1"><code class=3D"language-java"><span class=
+=3D"pln">		</span></code></li><li class=3D"L2"><code class=3D"lan=
+guage-java"><span class=3D"pln">		</span><span style=3D"backgroun=
+d-color: rgb(255, 255, 0);"><span class=3D"kwd">final</span><span=
+ class=3D"pln"> </span><span class=3D"typ">Connection</span><span=
+ class=3D"pln"> connection </span><span class=3D"pun">=3D</span><=
+span class=3D"pln"> pools</span><span class=3D"pun">.</span><span=
+ class=3D"pln">removeFirst</span><span class=3D"pun">();</span><s=
+pan class=3D"com">//=D2=AA=B4=D3=C8=DD=C6=F7=D6=D0=BB=F1=C8=A1=C1=
+=AC=BD=D3=A3=AC=B2=A2=C7=D2=B1=F0=C8=CB=D4=D9=D2=B2=BB=F1=C8=A1=B2=
+=BB=B5=BD=CB=F9=D2=D4=B1=D8=D0=EB=CA=B9=D3=C3removeFirst=B7=BD=B7=
+=A8</span></span></code></li><li class=3D"L3"><code class=3D"lang=
+uage-java" style=3D"background-color: rgb(255, 255, 0);"><span cl=
+ass=3D"pln">		</span><span class=3D"typ">System</span><span class=
+=3D"pun">.</span><span class=3D"pln">out</span><span class=3D"pun=
+">.</span><span class=3D"pln">println</span><span class=3D"pun">(=
+</span><span class=3D"str">"=B4=D3=C1=AC=BD=D3=B3=D8=D6=D0=BB=F1=C8=
+=A1=C1=CB=C1=AC=BD=D3=A3=AC=B5=B1=C7=B0=BB=B9=D3=D0"</span><span=20=
+class=3D"pun">+</span><span class=3D"pln">pools</span><span class=
+=3D"pun">.</span><span class=3D"pln">size</span><span class=3D"pu=
+n">()+</span><span class=3D"str">"=B8=F6=C1=AC=BD=D3"</span><span=
+ class=3D"pun">);</span></code></li><li class=3D"L4"><code class=3D=
+"language-java" style=3D"background-color: rgb(255, 255, 0);"><sp=
+an class=3D"pln">		</span><span class=3D"com">//=B1=BB=B4=FA=C0=ED=
+=B6=D4=CF=F3=B5=C4=C0=E0=BC=D3=D4=D8=C6=F7</span></code></li><li=20=
+class=3D"L5"><code class=3D"language-java" style=3D"background-co=
+lor: rgb(255, 255, 0);"><span class=3D"pln">		</span><span class=3D=
+"typ">ClassLoader</span><span class=3D"pln"> loader </span><span=20=
+class=3D"pun">=3D</span><span class=3D"pln"> connection</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">getClass</span><span=
+ class=3D"pun">().</span><span class=3D"pln">getClassLoader</span=
+><span class=3D"pun">();</span></code></li><li class=3D"L6"><code=
+ class=3D"language-java" style=3D"background-color: rgb(255, 255,=
+ 0);"><span class=3D"pln">		</span><span class=3D"com">//=B1=BB=B4=
+=FA=C0=ED=B6=D4=CF=F3=B5=C4=C0=E0=BC=D3=D4=D8=C6=F7=B5=C4=BD=D3=BF=
+=DA</span></code></li><li class=3D"L7"><code class=3D"language-ja=
+va" style=3D"background-color: rgb(255, 255, 0);"><span class=3D"=
+pln">		</span><span class=3D"typ">Class</span><span class=3D"pun"=
+>&lt;?&gt;[]</span><span class=3D"pln"> interfaces </span><span c=
+lass=3D"pun">=3D</span><span class=3D"pln"> connection</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">getClass</span><span=20=
+class=3D"pun">().</span><span class=3D"pln">getInterfaces</span><=
+span class=3D"pun">();</span></code></li><li class=3D"L8"><code c=
+lass=3D"language-java" style=3D"background-color: rgb(255, 255, 0=
+);"><span class=3D"pln">		</span><span class=3D"com">//=B4=A6=C0=ED=
+=B6=D4=CF=F3</span></code></li><li class=3D"L9"><code class=3D"la=
+nguage-java" style=3D"background-color: rgb(255, 255, 0);"><span=20=
+class=3D"pln">		</span><span class=3D"typ">InvocationHandler</spa=
+n><span class=3D"pln"> h </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"kwd">new</span><span clas=
+s=3D"pln"> </span><span class=3D"typ">InvocationHandler</span><sp=
+an class=3D"pun">()</span><span class=3D"pln"> </span><span class=
+=3D"pun">{</span></code></li><li class=3D"L0"><code class=3D"lang=
+uage-java"><span class=3D"pln" style=3D"background-color: rgb(255=
+, 255, 0);">			</span></code></li><li class=3D"L1"><code class=3D=
+"language-java" style=3D"background-color: rgb(255, 255, 0);"><sp=
+an class=3D"pln">			</span><span class=3D"lit">@Override</span></=
+code></li><li class=3D"L2"><code class=3D"language-java" style=3D=
+"background-color: rgb(255, 255, 0);"><span class=3D"pln">			</sp=
+an><span class=3D"com">/*</span></code></li><li class=3D"L3"><cod=
+e class=3D"language-java"><span class=3D"com" style=3D"background=
+-color: rgb(255, 255, 0);">			 * =B5=B1=B4=FA=C0=ED=B6=D4=CF=F3=B5=
+=F7=D3=C3=C1=CB=BD=D3=BF=DA=B7=BD=B7=A8=BA=F3=A3=AC=BE=CD=BB=E1=B1=
+=BBinvoke=B7=BD=B7=A8=C0=B9=BD=D8=CF=C2=C0=B4</span></code></li><=
+li class=3D"L4"><code class=3D"language-java"><span class=3D"com"=
+ style=3D"background-color: rgb(255, 255, 0);">			 * proxy=A3=BA=B4=
+=FA=C0=ED=B6=D4=CF=F3</span></code></li><li class=3D"L5"><code cl=
+ass=3D"language-java"><span class=3D"com" style=3D"background-col=
+or: rgb(255, 255, 0);">			 * method=A3=BA=BE=CD=CA=C7=B5=B1=C7=B0=
+=B4=FA=C0=ED=B6=D4=CF=F3=D5=FD=D4=DA=D6=B4=D0=D0=B5=C4=B7=BD=B7=A8=
+=B6=D4=CF=F3</span></code></li><li class=3D"L6"><code class=3D"la=
+nguage-java"><span class=3D"com" style=3D"background-color: rgb(2=
+55, 255, 0);">			 * args=A3=BA=D6=B4=D0=D0=B7=BD=B7=A8=B5=C4=B2=CE=
+=CA=FD</span></code></li><li class=3D"L7"><code class=3D"language=
+-java"><span class=3D"com" style=3D"background-color: rgb(255, 25=
+5, 0);">			 */</span></code></li><li class=3D"L8"><code class=3D"=
+language-java" style=3D"background-color: rgb(255, 255, 0);"><spa=
+n class=3D"pln">			</span><span class=3D"kwd">public</span><span=20=
+class=3D"pln"> </span><span class=3D"typ">Object</span><span clas=
+s=3D"pln"> invoke</span><span class=3D"pun">(</span><span class=3D=
+"typ">Object</span><span class=3D"pln"> proxy</span><span class=3D=
+"pun">,</span><span class=3D"pln"> </span><span class=3D"typ">Met=
+hod</span><span class=3D"pln"> method</span><span class=3D"pun">,=
+</span><span class=3D"pln"> </span><span class=3D"typ">Object</sp=
+an><span class=3D"pun">[]</span><span class=3D"pln"> args</span><=
+span class=3D"pun">)</span><span class=3D"pln"> </span><span clas=
+s=3D"kwd">throws</span><span class=3D"pln"> </span><span class=3D=
+"typ">Throwable</span><span class=3D"pln"> </span><span class=3D"=
+pun">{</span></code></li><li class=3D"L9"><code class=3D"language=
+-java" style=3D"background-color: rgb(255, 255, 0);"><span class=3D=
+"pln">				</span><span class=3D"com">//=C8=E7=B9=FB=CA=C7close=B7=
+=BD=B7=A8=BE=CD=D4=F6=C7=BF=A3=AC=B2=BB=CA=CD=B7=C5=C1=AC=BD=D3=D7=
+=CA=D4=B4=B6=F8=CA=C7=D6=B1=BD=D3=B7=C5=BB=D8=C1=AC=BD=D3=B3=D8=A3=
+=AC=C8=E7=BA=CE=B2=BB=CA=C7close=B7=BD=B7=A8=A3=AC=BE=CD=D6=B4=D0=
+=D0=D4=AD=B1=BE=B5=C4=B9=A6=C4=DC</span></code></li><li class=3D"=
+L0"><code class=3D"language-java" style=3D"background-color: rgb(=
+255, 255, 0);"><span class=3D"pln">				</span><span class=3D"kwd"=
+>if</span><span class=3D"pun">(</span><span class=3D"str">"close"=
+</span><span class=3D"pun">.</span><span class=3D"pln">equals</sp=
+an><span class=3D"pun">(</span><span class=3D"pln">method</span><=
+span class=3D"pun">.</span><span class=3D"pln">getName</span><spa=
+n class=3D"pun">())){</span></code></li><li class=3D"L1"><code cl=
+ass=3D"language-java" style=3D"background-color: rgb(255, 255, 0)=
+;"><span class=3D"pln">					</span><span class=3D"com">//=B2=BB=CA=
+=CD=B7=C5=C1=AC=BD=D3=D7=CA=D4=B4=B6=F8=CA=C7=D6=B1=BD=D3=B7=C5=BB=
+=D8=C1=AC=BD=D3=B3=D8</span></code></li><li class=3D"L2"><code cl=
+ass=3D"language-java" style=3D"background-color: rgb(255, 255, 0)=
+;"><span class=3D"pln">					</span><span class=3D"typ">System</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">out</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">println</span><span c=
+lass=3D"pun">(</span><span class=3D"str">"=CA=B9=D3=C3=B6=AF=CC=AC=
+=B4=FA=C0=ED=D4=F6=C7=BF=C1=CBclose=B7=BD=B7=A8"</span><span clas=
+s=3D"pun">);</span></code></li><li class=3D"L3"><code class=3D"la=
+nguage-java" style=3D"background-color: rgb(255, 255, 0);"><span=20=
+class=3D"pln">					backToPools</span><span class=3D"pun">(</span>=
+<span class=3D"pln">connection</span><span class=3D"pun">);</span=
+></code></li><li class=3D"L4"><code class=3D"language-java" style=
+=3D"background-color: rgb(255, 255, 0);"><span class=3D"pln">			=09=
+	</span><span class=3D"kwd">return</span><span class=3D"pln"> </s=
+pan><span class=3D"kwd">null</span><span class=3D"pun">;</span><s=
+pan class=3D"com">//=C8=E7=B9=FB=CA=C7close=B7=BD=B7=A8=A3=AC=BE=CD=
+=B2=BB=D6=B4=D0=D0=D4=AD=B1=BE=B5=C4=B9=A6=C4=DC</span></code></l=
+i><li class=3D"L5"><code class=3D"language-java" style=3D"backgro=
+und-color: rgb(255, 255, 0);"><span class=3D"pln">				</span><spa=
+n class=3D"pun">}</span></code></li><li class=3D"L6"><code class=3D=
+"language-java" style=3D"background-color: rgb(255, 255, 0);"><sp=
+an class=3D"pln">				</span><span class=3D"kwd">return</span><spa=
+n class=3D"pln"> method</span><span class=3D"pun">.</span><span c=
+lass=3D"pln">invoke</span><span class=3D"pun">(</span><span class=
+=3D"pln">connection</span><span class=3D"pun">,</span><span class=
+=3D"pln"> args</span><span class=3D"pun">);</span><span class=3D"=
+com">//=B2=BB=BD=F8=D0=D0=D4=F6=C7=BF=B2=D9=D7=F7=A3=AC=D6=B4=D0=D0=
+=D4=AD=B1=BE=B5=C4=B9=A6=C4=DC</span></code></li><li class=3D"L7"=
+><code class=3D"language-java" style=3D"background-color: rgb(255=
+, 255, 0);"><span class=3D"pln">			</span><span class=3D"pun">}</=
+span></code></li><li class=3D"L8"><code class=3D"language-java" s=
+tyle=3D"background-color: rgb(255, 255, 0);"><span class=3D"pln">=
+		</span><span class=3D"pun">};</span></code></li><li class=3D"L9=
+"><code class=3D"language-java" style=3D"background-color: rgb(25=
+5, 255, 0);"><span class=3D"pln">		</span><span class=3D"com">//=CA=
+=B9=D3=C3=B6=AF=CC=AC=B4=FA=C0=ED=A3=AC=B6=D4connection=CA=B5=CF=D6=
+=C0=E0=A3=AC=D4=F6=C7=BFclose=B7=BD=B7=A8=A3=AC=B2=A2=D4=DAclose=B7=
+=BD=B7=A8=D6=D0=A3=AC=B2=BB=CA=CD=B7=C5=C1=AC=BD=D3=D7=CA=D4=B4=B6=
+=F8=CA=C7=D6=B1=BD=D3=B7=C5=BB=D8=C1=AC=BD=D3=B3=D8=A3=A1=A3=A1=A3=
+=A1=A3=A1</span></code></li><li class=3D"L0"><code class=3D"langu=
+age-java" style=3D"background-color: rgb(255, 255, 0);"><span cla=
+ss=3D"pln">		</span><span class=3D"typ">Connection</span><span cl=
+ass=3D"pln"> connectionProxy </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> </span><span class=3D"pun">(</span><span cl=
+ass=3D"typ">Connection</span><span class=3D"pun">)</span><span cl=
+ass=3D"pln"> </span><span class=3D"typ">Proxy</span><span class=3D=
+"pun">.</span><span class=3D"pln">newProxyInstance</span><span cl=
+ass=3D"pun">(</span><span class=3D"pln">loader</span><span class=3D=
+"pun">,</span><span class=3D"pln"> interfaces</span><span class=3D=
+"pun">,</span><span class=3D"pln"> h</span><span class=3D"pun">);=
+</span></code></li><li class=3D"L1"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"kwd">return</span><s=
+pan class=3D"pln"> connectionProxy</span><span class=3D"pun">;</s=
+pan></code></li><li class=3D"L2"><code class=3D"language-java"><s=
+pan class=3D"pln">	</span><span class=3D"pun">}</span></code></li=
+></ol></pre></div><div><br></div></div><div>05_dbcp=CA=FD=BE=DD=BF=
+=E2=C1=AC=BD=D3=B3=D8</div><div><div><pre class=3D"prettyprint li=
+nenums prettyprinted"><ol class=3D"linenums"><li class=3D"L0"><co=
+de class=3D"language-java"><span class=3D"kwd">package</span><spa=
+n class=3D"pln"> com</span><span class=3D"pun">.</span><span clas=
+s=3D"pln">itheima</span><span class=3D"pun">.</span><span class=3D=
+"pln">dbcp_03</span><span class=3D"pun">;</span></code></li><li c=
+lass=3D"L1"><code class=3D"language-java"></code></li><li class=3D=
+"L2"><code class=3D"language-java"><span class=3D"kwd">import</sp=
+an><span class=3D"pln"> java</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">io</span><span class=3D"pun">.</span><span clas=
+s=3D"typ">FileInputStream</span><span class=3D"pun">;</span></cod=
+e></li><li class=3D"L3"><code class=3D"language-java"><span class=
+=3D"kwd">import</span><span class=3D"pln"> java</span><span class=
+=3D"pun">.</span><span class=3D"pln">io</span><span class=3D"pun"=
+>.</span><span class=3D"typ">Reader</span><span class=3D"pun">;</=
+span></code></li><li class=3D"L4"><code class=3D"language-java"><=
+span class=3D"kwd">import</span><span class=3D"pln"> java</span><=
+span class=3D"pun">.</span><span class=3D"pln">sql</span><span cl=
+ass=3D"pun">.</span><span class=3D"typ">Connection</span><span cl=
+ass=3D"pun">;</span></code></li><li class=3D"L5"><code class=3D"l=
+anguage-java"><span class=3D"kwd">import</span><span class=3D"pln=
+"> java</span><span class=3D"pun">.</span><span class=3D"pln">sql=
+</span><span class=3D"pun">.</span><span class=3D"typ">PreparedSt=
+atement</span><span class=3D"pun">;</span></code></li><li class=3D=
+"L6"><code class=3D"language-java"><span class=3D"kwd">import</sp=
+an><span class=3D"pln"> java</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">sql</span><span class=3D"pun">.</span><span cla=
+ss=3D"typ">SQLException</span><span class=3D"pun">;</span></code>=
+</li><li class=3D"L7"><code class=3D"language-java"><span class=3D=
+"kwd">import</span><span class=3D"pln"> java</span><span class=3D=
+"pun">.</span><span class=3D"pln">util</span><span class=3D"pun">=
+.</span><span class=3D"typ">Properties</span><span class=3D"pun">=
+;</span></code></li><li class=3D"L8"><code class=3D"language-java=
+"></code></li><li class=3D"L9"><code class=3D"language-java"><spa=
+n class=3D"kwd">import</span><span class=3D"pln"> javax</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">sql</span><span clas=
+s=3D"pun">.</span><span class=3D"typ">DataSource</span><span clas=
+s=3D"pun">;</span></code></li><li class=3D"L0"><code class=3D"lan=
+guage-java"></code></li><li class=3D"L1"><code class=3D"language-=
+java"><span class=3D"kwd">import</span><span class=3D"pln"> org</=
+span><span class=3D"pun">.</span><span class=3D"pln">apache</span=
+><span class=3D"pun">.</span><span class=3D"pln">commons</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">dbcp</span><span cl=
+ass=3D"pun">.</span><span class=3D"typ">BasicDataSource</span><sp=
+an class=3D"pun">;</span></code></li><li class=3D"L2"><code class=
+=3D"language-java"><span class=3D"kwd">import</span><span class=3D=
+"pln"> org</span><span class=3D"pun">.</span><span class=3D"pln">=
+apache</span><span class=3D"pun">.</span><span class=3D"pln">comm=
+ons</span><span class=3D"pun">.</span><span class=3D"pln">dbcp</s=
+pan><span class=3D"pun">.</span><span class=3D"typ">BasicDataSour=
+ceFactory</span><span class=3D"pun">;</span></code></li><li class=
+=3D"L3"><code class=3D"language-java"></code></li><li class=3D"L4=
+"><code class=3D"language-java"><span class=3D"kwd">import</span>=
+<span class=3D"pln"> com</span><span class=3D"pun">.</span><span=20=
+class=3D"pln">itheima</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">sh</span><span class=3D"pun">.</span><span class=3D"pl=
+n">utils_04</span><span class=3D"pun">.</span><span class=3D"typ"=
+>JdbcUtil</span><span class=3D"pun">;</span></code></li><li class=
+=3D"L5"><code class=3D"language-java"></code></li><li class=3D"L6=
+"><code class=3D"language-java"><span class=3D"com">/*</span></co=
+de></li><li class=3D"L7"><code class=3D"language-java"><span clas=
+s=3D"com"> * =B8=C3=C0=E0=D2=AA=D1=A7=CF=B0=B5=C4=C4=DA=C8=DD=A3=BA=
+=C8=E7=BA=CE=CA=B9=D3=C3=BF=AA=D4=B4=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=
+=B3=D8dbcp=A3=BF=A3=BF=A3=BF=B1=D8=D0=EB=B5=BC=B0=FC</span></code=
+></li><li class=3D"L8"><code class=3D"language-java"><span class=3D=
+"com"> * =D7=DC=BD=E1=A3=BA</span></code></li><li class=3D"L9"><c=
+ode class=3D"language-java"><span class=3D"com"> * 		dbcp=B5=C4=CA=
+=B9=D3=C3=D3=D02=D6=D6=B7=BD=CA=BD=A3=BA</span></code></li><li cl=
+ass=3D"L0"><code class=3D"language-java"><span class=3D"com"> * =09=
+	1.=CA=D6=B6=AF=C9=E8=D6=C3=B7=BD=CA=BD=A3=BA=A3=A8=B2=BB=CD=C6=BC=
+=F6=A3=A9</span></code></li><li class=3D"L1"><code class=3D"langu=
+age-java"><span class=3D"com"> * 		BasicDataSource ds =3D new Bas=
+icDataSource();</span></code></li><li class=3D"L2"><code class=3D=
+"language-java"><span class=3D"com">		ds.setDriverClassName("com.=
+mysql.jdbc.Driver");</span></code></li><li class=3D"L3"><code cla=
+ss=3D"language-java"><span class=3D"com">		ds.setUrl("jdbc:mysql:=
+//localhost:3306/day04");</span></code></li><li class=3D"L4"><cod=
+e class=3D"language-java"><span class=3D"com">		ds.setUsername("r=
+oot");</span></code></li><li class=3D"L5"><code class=3D"language=
+-java"><span class=3D"com">		ds.setPassword("123");</span></code>=
+</li><li class=3D"L6"><code class=3D"language-java"><span class=3D=
+"com"> * 		<span style=3D"background-color: rgb(255, 255, 0);">2.=
+=C5=E4=D6=C3=CE=C4=BC=FE=B7=BD=B7=A8=A3=BA=A3=A8=CD=C6=BC=F6=A3=A9=
+</span></span></code></li><li class=3D"L7"><code class=3D"languag=
+e-java"><span class=3D"com"> * 		<span style=3D"background-color:=
+ rgb(255, 255, 0);">Properties properties =3D new Properties();</=
+span></span></code></li><li class=3D"L8"><code class=3D"language-=
+java"><span class=3D"com" style=3D"background-color: rgb(255, 255=
+, 0);">		FileInputStream inStream =3D new FileInputStream("src/co=
+m/itheima/dbcp_03/dbcp.propertis");</span></code></li><li class=3D=
+"L9"><code class=3D"language-java"><span class=3D"com" style=3D"b=
+ackground-color: rgb(255, 255, 0);">		properties.load(inStream);<=
+/span></code></li><li class=3D"L0"><code class=3D"language-java">=
+<span class=3D"com" style=3D"background-color: rgb(255, 255, 0);"=
+>		//=C5=E4=D6=C3=CE=C4=BC=FE=D4=F5=C3=B4=D0=B4</span></code></li=
+><li class=3D"L1"><code class=3D"language-java"><span class=3D"co=
+m" style=3D"background-color: rgb(255, 255, 0);">		DataSource dat=
+aSource =3D BasicDataSourceFactory.createDataSource(properties);<=
+/span></code></li><li class=3D"L2"><code class=3D"language-java">=
+<span class=3D"com"> */</span></code></li><li class=3D"L3"><code=20=
+class=3D"language-java"><span class=3D"kwd">public</span><span cl=
+ass=3D"pln"> </span><span class=3D"kwd">class</span><span class=3D=
+"pln"> </span><span class=3D"typ">DbcpDemo</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span></code></li><li class=3D"=
+L4"><code class=3D"language-java"></code></li><li class=3D"L5"><c=
+ode class=3D"language-java"><span class=3D"pln">	</span><span cla=
+ss=3D"com">//dbcp=C5=E4=D6=C3=CE=C4=BC=FE=B7=BD=CA=BD=A3=BAProper=
+ties=CE=C4=BC=FE</span></code></li><li class=3D"L6"><code class=3D=
+"language-java"><span class=3D"pln">	</span><span class=3D"kwd">p=
+ublic</span><span class=3D"pln"> </span><span class=3D"kwd">stati=
+c</span><span class=3D"pln"> </span><span class=3D"kwd">void</spa=
+n><span class=3D"pln"> main</span><span class=3D"pun">(</span><sp=
+an class=3D"typ">String</span><span class=3D"pun">[]</span><span=20=
+class=3D"pln"> args</span><span class=3D"pun">)</span><span class=
+=3D"pln"> </span><span class=3D"kwd">throws</span><span class=3D"=
+pln"> </span><span class=3D"typ">Exception</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span></code></li><li class=3D"=
+L7"><code class=3D"language-java"><span class=3D"pln">		</span><s=
+pan class=3D"typ">Properties</span><span class=3D"pln"> propertie=
+s </span><span class=3D"pun">=3D</span><span class=3D"pln"> </spa=
+n><span class=3D"kwd">new</span><span class=3D"pln"> </span><span=
+ class=3D"typ">Properties</span><span class=3D"pun">();</span></c=
+ode></li><li class=3D"L8"><code class=3D"language-java"><span cla=
+ss=3D"pln">		</span><span class=3D"typ">FileInputStream</span><sp=
+an class=3D"pln"> inStream </span><span class=3D"pun">=3D</span><=
+span class=3D"pln"> </span><span class=3D"kwd">new</span><span cl=
+ass=3D"pln"> </span><span class=3D"typ">FileInputStream</span><sp=
+an class=3D"pun">(</span><span class=3D"str">"src/com/itheima/dbc=
+p_03/dbcp.propertis"</span><span class=3D"pun">);</span></code></=
+li><li class=3D"L9"><code class=3D"language-java"><span class=3D"=
+pln">		properties</span><span class=3D"pun">.</span><span class=3D=
+"pln">load</span><span class=3D"pun">(</span><span class=3D"pln">=
+inStream</span><span class=3D"pun">);</span></code></li><li class=
+=3D"L0"><code class=3D"language-java"><span class=3D"pln">		</spa=
+n><span class=3D"com">//=C5=E4=D6=C3=CE=C4=BC=FE=D4=F5=C3=B4=D0=B4=
+</span></code></li><li class=3D"L1"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"typ">DataSource</spa=
+n><span class=3D"pln"> dataSource </span><span class=3D"pun">=3D<=
+/span><span class=3D"pln"> </span><span class=3D"typ">BasicDataSo=
+urceFactory</span><span class=3D"pun">.</span><span class=3D"pln"=
+>createDataSource</span><span class=3D"pun">(</span><span class=3D=
+"pln">properties</span><span class=3D"pun">);</span></code></li><=
+li class=3D"L2"><code class=3D"language-java"><span class=3D"pln"=
+>		</span><span class=3D"com">//=B4=D3dbcp=B5=C4=CA=FD=BE=DD=BF=E2=
+=C1=AC=BD=D3=B3=D8=D6=D0=BB=F1=C8=A1=C1=AC=BD=D3=BC=B4=BF=C9</spa=
+n></code></li><li class=3D"L3"><code class=3D"language-java"><spa=
+n class=3D"pln">		</span><span class=3D"typ">Connection</span><sp=
+an class=3D"pln"> connection </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> dataSource</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">getConnection</span><span class=3D"pun">();=
+</span></code></li><li class=3D"L4"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"typ">String</span><s=
+pan class=3D"pln"> sql </span><span class=3D"pun">=3D</span><span=
+ class=3D"pln"> </span><span class=3D"str">"insert into user valu=
+es(?,?,?,?)"</span><span class=3D"pun">;</span></code></li><li cl=
+ass=3D"L5"><code class=3D"language-java"><span class=3D"pln">		</=
+span><span class=3D"typ">PreparedStatement</span><span class=3D"p=
+ln"> statement </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> connection</span><span class=3D"pun">.</span><span class=3D=
+"pln">prepareStatement</span><span class=3D"pun">(</span><span cl=
+ass=3D"pln">sql </span><span class=3D"pun">);</span></code></li><=
+li class=3D"L6"><code class=3D"language-java"><span class=3D"pln"=
+>		</span><span class=3D"com">//=D4=A4=B1=E0=D2=EB=CD=EA=B1=CF=BA=
+=F3=CA=E4=C8=EB=B2=CE=CA=FD</span></code></li><li class=3D"L7"><c=
+ode class=3D"language-java"><span class=3D"pln">		statement</span=
+><span class=3D"pun">.</span><span class=3D"pln">setString</span>=
+<span class=3D"pun">(</span><span class=3D"lit">1</span><span cla=
+ss=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"str=
+">"010"</span><span class=3D"pun">);</span></code></li><li class=3D=
+"L8"><code class=3D"language-java"><span class=3D"pln">		statemen=
+t</span><span class=3D"pun">.</span><span class=3D"pln">setString=
+</span><span class=3D"pun">(</span><span class=3D"lit">2</span><s=
+pan class=3D"pun">,</span><span class=3D"pln"> </span><span class=
+=3D"str">"=CD=F5=CE=E5"</span><span class=3D"pun">);</span></code=
+></li><li class=3D"L9"><code class=3D"language-java"><span class=3D=
+"pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setInt</span><span class=3D"pun">(</span><span class=3D"lit=
+">3</span><span class=3D"pun">,</span><span class=3D"pln"> </span=
+><span class=3D"lit">22</span><span class=3D"pun">);</span></code=
+></li><li class=3D"L0"><code class=3D"language-java"><span class=3D=
+"pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setString</span><span class=3D"pun">(</span><span class=3D"=
+lit">4</span><span class=3D"pun">,</span><span class=3D"pln"> </s=
+pan><span class=3D"str">"123"</span><span class=3D"pun">);</span>=
+</code></li><li class=3D"L1"><code class=3D"language-java"><span=20=
+class=3D"pln">		</span></code></li><li class=3D"L2"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"kwd">=
+int</span><span class=3D"pln"> executeUpdate </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> statement</span><span class=3D=
+"pun">.</span><span class=3D"pln">executeUpdate</span><span class=
+=3D"pun">();</span></code></li><li class=3D"L3"><code class=3D"la=
+nguage-java"><span class=3D"pln">		</span><span class=3D"typ">Sys=
+tem</span><span class=3D"pun">.</span><span class=3D"pln">out</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">println</span>=
+<span class=3D"pun">(</span><span class=3D"pln">executeUpdate</sp=
+an><span class=3D"pun">);</span></code></li><li class=3D"L4"><cod=
+e class=3D"language-java"><span class=3D"pln">		</span><span clas=
+s=3D"com">//connection=CA=C7=B4=D3dbcp=CA=FD=BE=DD=BF=E2=C1=AC=BD=
+=D3=B3=D8=D6=D0=BB=F1=C8=A1=B5=C4=A3=AC=CB=FC=D2=D1=BE=AD=B1=BBdb=
+cp=D4=F6=C7=BF=C1=CBclose=B7=BD=B7=A8=BE=CD=BB=E1=B7=C5=BB=D8dbcp=
+=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8</span></code></li><li class=3D=
+"L5"><code class=3D"language-java"><span class=3D"pln">		inStream=
+</span><span class=3D"pun">.</span><span class=3D"pln">close</spa=
+n><span class=3D"pun">();</span></code></li><li class=3D"L6"><cod=
+e class=3D"language-java"><span class=3D"pln">		</span><span clas=
+s=3D"typ">JdbcUtil</span><span class=3D"pun">.</span><span class=3D=
+"pln">release</span><span class=3D"pun">(</span><span class=3D"kw=
+d">null</span><span class=3D"pun">,</span><span class=3D"pln"> st=
+atement</span><span class=3D"pun">,</span><span class=3D"pln"> co=
+nnection</span><span class=3D"pun">);</span></code></li><li class=
+=3D"L7"><code class=3D"language-java"><span class=3D"pln">	</span=
+><span class=3D"pun">}</span></code></li><li class=3D"L8"><code c=
+lass=3D"language-java"></code></li><li class=3D"L9"><code class=3D=
+"language-java"><span class=3D"pln">	</span><span class=3D"com">/=
+/dbcp=CA=D6=B6=AF=C5=E4=D6=C3=B2=D9=D7=F7=CA=FD=BE=DD=BF=E2=B5=C4=
+=CB=C4=D2=AA=CB=D8=B5=C4=B7=BD=B7=A8=A3=A8=CA=D6=B6=AF=C9=E8=D6=C3=
+=B7=BD=CA=BD=A3=AC=B2=BB=CD=C6=BC=F6=A3=A9!!!</span></code></li><=
+li class=3D"L0"><code class=3D"language-java"><span class=3D"pln"=
+>	</span><span class=3D"kwd">private</span><span class=3D"pln"> <=
+/span><span class=3D"kwd">static</span><span class=3D"pln"> </spa=
+n><span class=3D"kwd">void</span><span class=3D"pln"> dbcp_Test</=
+span><span class=3D"pun">()</span><span class=3D"pln"> </span><sp=
+an class=3D"kwd">throws</span><span class=3D"pln"> </span><span c=
+lass=3D"typ">SQLException</span><span class=3D"pln"> </span><span=
+ class=3D"pun">{</span></code></li><li class=3D"L1"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"typ">=
+BasicDataSource</span><span class=3D"pln"> ds </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kwd">n=
+ew</span><span class=3D"pln"> </span><span class=3D"typ">BasicDat=
+aSource</span><span class=3D"pun">();</span></code></li><li class=
+=3D"L2"><code class=3D"language-java"><span class=3D"pln">		ds</s=
+pan><span class=3D"pun">.</span><span class=3D"pln">setDriverClas=
+sName</span><span class=3D"pun">(</span><span class=3D"str">"com.=
+mysql.jdbc.Driver"</span><span class=3D"pun">);</span></code></li=
+><li class=3D"L3"><code class=3D"language-java"><span class=3D"pl=
+n">		ds</span><span class=3D"pun">.</span><span class=3D"pln">set=
+Url</span><span class=3D"pun">(</span><span class=3D"str">"jdbc:m=
+ysql://localhost:3306/day04"</span><span class=3D"pun">);</span><=
+/code></li><li class=3D"L4"><code class=3D"language-java"><span c=
+lass=3D"pln">		ds</span><span class=3D"pun">.</span><span class=3D=
+"pln">setUsername</span><span class=3D"pun">(</span><span class=3D=
+"str">"root"</span><span class=3D"pun">);</span></code></li><li c=
+lass=3D"L5"><code class=3D"language-java"><span class=3D"pln">		d=
+s</span><span class=3D"pun">.</span><span class=3D"pln">setPasswo=
+rd</span><span class=3D"pun">(</span><span class=3D"str">"123"</s=
+pan><span class=3D"pun">);</span></code></li><li class=3D"L6"><co=
+de class=3D"language-java"><span class=3D"pln">		</span></code></=
+li><li class=3D"L7"><code class=3D"language-java"><span class=3D"=
+pln">		</span><span class=3D"com">//=B4=D3dbcp=B5=C4=CA=FD=BE=DD=BF=
+=E2=C1=AC=BD=D3=B3=D8=D6=D0=BB=F1=C8=A1=C1=AC=BD=D3=BC=B4=BF=C9</=
+span></code></li><li class=3D"L8"><code class=3D"language-java"><=
+span class=3D"pln">		</span><span class=3D"typ">Connection</span>=
+<span class=3D"pln"> connection </span><span class=3D"pun">=3D</s=
+pan><span class=3D"pln"> ds</span><span class=3D"pun">.</span><sp=
+an class=3D"pln">getConnection</span><span class=3D"pun">();</spa=
+n></code></li><li class=3D"L9"><code class=3D"language-java"><spa=
+n class=3D"pln">		</span><span class=3D"typ">String</span><span c=
+lass=3D"pln"> sql </span><span class=3D"pun">=3D</span><span clas=
+s=3D"pln"> </span><span class=3D"str">"insert into user values(?,=
+?,?,?)"</span><span class=3D"pun">;</span></code></li><li class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">		</span><=
+span class=3D"typ">PreparedStatement</span><span class=3D"pln"> s=
+tatement </span><span class=3D"pun">=3D</span><span class=3D"pln"=
+> connection</span><span class=3D"pun">.</span><span class=3D"pln=
+">prepareStatement</span><span class=3D"pun">(</span><span class=3D=
+"pln">sql </span><span class=3D"pun">);</span></code></li><li cla=
+ss=3D"L1"><code class=3D"language-java"><span class=3D"pln">		</s=
+pan><span class=3D"com">//=D4=A4=B1=E0=D2=EB=CD=EA=B1=CF=BA=F3=CA=
+=E4=C8=EB=B2=CE=CA=FD</span></code></li><li class=3D"L2"><code cl=
+ass=3D"language-java"><span class=3D"pln">		statement</span><span=
+ class=3D"pun">.</span><span class=3D"pln">setString</span><span=20=
+class=3D"pun">(</span><span class=3D"lit">1</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"009=
+"</span><span class=3D"pun">);</span></code></li><li class=3D"L3"=
+><code class=3D"language-java"><span class=3D"pln">		statement</s=
+pan><span class=3D"pun">.</span><span class=3D"pln">setString</sp=
+an><span class=3D"pun">(</span><span class=3D"lit">2</span><span=20=
+class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"=
+str">"=CD=F5=CE=E5"</span><span class=3D"pun">);</span></code></l=
+i><li class=3D"L4"><code class=3D"language-java"><span class=3D"p=
+ln">		statement</span><span class=3D"pun">.</span><span class=3D"=
+pln">setInt</span><span class=3D"pun">(</span><span class=3D"lit"=
+>3</span><span class=3D"pun">,</span><span class=3D"pln"> </span>=
+<span class=3D"lit">22</span><span class=3D"pun">);</span></code>=
+</li><li class=3D"L5"><code class=3D"language-java"><span class=3D=
+"pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setString</span><span class=3D"pun">(</span><span class=3D"=
+lit">4</span><span class=3D"pun">,</span><span class=3D"pln"> </s=
+pan><span class=3D"str">"123"</span><span class=3D"pun">);</span>=
+</code></li><li class=3D"L6"><code class=3D"language-java"><span=20=
+class=3D"pln">		</span></code></li><li class=3D"L7"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"kwd">=
+int</span><span class=3D"pln"> executeUpdate </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> statement</span><span class=3D=
+"pun">.</span><span class=3D"pln">executeUpdate</span><span class=
+=3D"pun">();</span></code></li><li class=3D"L8"><code class=3D"la=
+nguage-java"><span class=3D"pln">		</span><span class=3D"typ">Sys=
+tem</span><span class=3D"pun">.</span><span class=3D"pln">out</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">println</span>=
+<span class=3D"pun">(</span><span class=3D"pln">executeUpdate</sp=
+an><span class=3D"pun">);</span></code></li><li class=3D"L9"><cod=
+e class=3D"language-java"><span class=3D"pln">		</span><span clas=
+s=3D"com">//connection=CA=C7=B4=D3dbcp=CA=FD=BE=DD=BF=E2=C1=AC=BD=
+=D3=B3=D8=D6=D0=BB=F1=C8=A1=B5=C4=A3=AC=CB=FC=D2=D1=BE=AD=B1=BBdb=
+cp=D4=F6=C7=BF=C1=CBclose=B7=BD=B7=A8=BE=CD=BB=E1=B7=C5=BB=D8dbcp=
+=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8</span></code></li><li class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">		</span><=
+span class=3D"typ">JdbcUtil</span><span class=3D"pun">.</span><sp=
+an class=3D"pln">release</span><span class=3D"pun">(</span><span=20=
+class=3D"kwd">null</span><span class=3D"pun">,</span><span class=3D=
+"pln"> statement</span><span class=3D"pun">,</span><span class=3D=
+"pln"> connection</span><span class=3D"pun">);</span></code></li>=
+<li class=3D"L1"><code class=3D"language-java"><span class=3D"pln=
+">	</span><span class=3D"pun">}</span></code></li><li class=3D"L2=
+"><code class=3D"language-java"></code></li><li class=3D"L3"><cod=
+e class=3D"language-java"><span class=3D"pun">}</span></code></li=
+></ol></pre></div><div><br></div></div><div>06_c3p0=CA=FD=BE=DD=BF=
+=E2=C1=AC=BD=D3=B3=D8=B5=C4=CA=B9=D3=C3</div><div><div><pre class=
+=3D"prettyprint linenums prettyprinted"><ol class=3D"linenums"><l=
+i class=3D"L0"><code class=3D"language-java"><span class=3D"kwd">=
+package</span><span class=3D"pln"> com</span><span class=3D"pun">=
+.</span><span class=3D"pln">itheima</span><span class=3D"pun">.</=
+span><span class=3D"pln">c3p0_04</span><span class=3D"pun">;</spa=
+n></code></li><li class=3D"L1"><code class=3D"language-java"></co=
+de></li><li class=3D"L2"><code class=3D"language-java"><span clas=
+s=3D"kwd">import</span><span class=3D"pln"> java</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">beans</span><span class=3D"=
+pun">.</span><span class=3D"typ">PropertyVetoException</span><spa=
+n class=3D"pun">;</span></code></li><li class=3D"L3"><code class=3D=
+"language-java"><span class=3D"kwd">import</span><span class=3D"p=
+ln"> java</span><span class=3D"pun">.</span><span class=3D"pln">s=
+ql</span><span class=3D"pun">.</span><span class=3D"typ">Connecti=
+on</span><span class=3D"pun">;</span></code></li><li class=3D"L4"=
+><code class=3D"language-java"><span class=3D"kwd">import</span><=
+span class=3D"pln"> java</span><span class=3D"pun">.</span><span=20=
+class=3D"pln">sql</span><span class=3D"pun">.</span><span class=3D=
+"typ">PreparedStatement</span><span class=3D"pun">;</span></code>=
+</li><li class=3D"L5"><code class=3D"language-java"><span class=3D=
+"kwd">import</span><span class=3D"pln"> java</span><span class=3D=
+"pun">.</span><span class=3D"pln">sql</span><span class=3D"pun">.=
+</span><span class=3D"typ">SQLException</span><span class=3D"pun"=
+>;</span></code></li><li class=3D"L6"><code class=3D"language-jav=
+a"></code></li><li class=3D"L7"><code class=3D"language-java"><sp=
+an class=3D"kwd">import</span><span class=3D"pln"> javax</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">sql</span><span cla=
+ss=3D"pun">.</span><span class=3D"typ">DataSource</span><span cla=
+ss=3D"pun">;</span></code></li><li class=3D"L8"><code class=3D"la=
+nguage-java"></code></li><li class=3D"L9"><code class=3D"language=
+-java"><span class=3D"kwd">import</span><span class=3D"pln"> com<=
+/span><span class=3D"pun">.</span><span class=3D"pln">itheima</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">sh</span><span=
+ class=3D"pun">.</span><span class=3D"pln">utils_04</span><span c=
+lass=3D"pun">.</span><span class=3D"typ">JdbcUtil</span><span cla=
+ss=3D"pun">;</span></code></li><li class=3D"L0"><code class=3D"la=
+nguage-java"><span class=3D"kwd">import</span><span class=3D"pln"=
+> com</span><span class=3D"pun">.</span><span class=3D"pln">mchan=
+ge</span><span class=3D"pun">.</span><span class=3D"pln">v2</span=
+><span class=3D"pun">.</span><span class=3D"pln">c3p0</span><span=
+ class=3D"pun">.</span><span class=3D"typ">ComboPooledDataSource<=
+/span><span class=3D"pun">;</span></code></li><li class=3D"L1"><c=
+ode class=3D"language-java"></code></li><li class=3D"L2"><code cl=
+ass=3D"language-java"><span class=3D"com">/*</span></code></li><l=
+i class=3D"L3"><code class=3D"language-java"><span class=3D"com">=
+ * c3p0=C8=E7=BA=CE=CA=B9=D3=C3???</span></code></li><li class=3D=
+"L4"><code class=3D"language-java"><span class=3D"com"> * =D3=D02=
+=D6=D6=CA=B9=D3=C3=B7=BD=CA=BD=A3=BA</span></code></li><li class=3D=
+"L5"><code class=3D"language-java"><span class=3D"com"> * 		1.=CA=
+=D6=B6=AF=C9=E8=D6=C3=A3=BA=A3=A8=B2=BB=CD=C6=BC=F6=A3=A9</span><=
+/code></li><li class=3D"L6"><code class=3D"language-java"><span c=
+lass=3D"com"> * 		ComboPooledDataSource cpds =3D new ComboPooledD=
+ataSource();</span></code></li><li class=3D"L7"><code class=3D"la=
+nguage-java"><span class=3D"com">		cpds.setDriverClass( "com.mysq=
+l.jdbc.Driver" );             </span></code></li><li class=3D"L8"=
+><code class=3D"language-java"><span class=3D"com">		cpds.setJdbc=
+Url( "jdbc:mysql://localhost:3306/day04" );</span></code></li><li=
+ class=3D"L9"><code class=3D"language-java"><span class=3D"com">=09=
+	cpds.setUser("root");                                  </span></=
+code></li><li class=3D"L0"><code class=3D"language-java"><span cl=
+ass=3D"com">		cpds.setPassword("123");</span></code></li><li clas=
+s=3D"L1"><code class=3D"language-java"><span class=3D"com">		<spa=
+n style=3D"background-color: rgb(255, 255, 0);">2.=C5=E4=D6=C3=CE=
+=C4=BC=FE=B7=BD=CA=BD=A3=BA=A3=A8=CD=C6=BC=F6=A3=A9</span></span>=
+</code></li><li class=3D"L2"><code class=3D"language-java"><span=20=
+class=3D"com" style=3D"background-color: rgb(255, 255, 0);">		//=D6=
+=BB=D2=AA=B4=B4=BD=A8=B3=F6ComboPooledDataSource=BC=B4=BF=C9</spa=
+n></code></li><li class=3D"L3"><code class=3D"language-java"><spa=
+n class=3D"com" style=3D"background-color: rgb(255, 255, 0);">		/=
+/=D4=DAComboPooledDataSource()=CE=DE=B2=CE=B9=B9=D4=EC=B7=BD=B7=A8=
+=D6=D0=A3=AC=C4=AC=C8=CF=B4=D3src=D6=D0=B6=C1=C8=A1c3p0-config.xm=
+l=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE=D0=C5=CF=A2</span></code></li><li=
+ class=3D"L4"><code class=3D"language-java"><span class=3D"com" s=
+tyle=3D"background-color: rgb(255, 255, 0);">		DataSource ds =3D=20=
+new ComboPooledDataSource();</span></code></li><li class=3D"L5"><=
+code class=3D"language-java"><span class=3D"com" style=3D"backgro=
+und-color: rgb(255, 255, 0);">		=C5=E4=D6=C3=CE=C4=BC=FE=B5=C4=D7=
+=A2=D2=E2=B5=E3=A3=BAc3p0-config.xml=B1=D8=D0=EB=D4=DAsrc=CE=C4=BC=
+=FE=BC=D0=CF=C2=B2=C5=D0=D0=A3=A1=A3=A1=A3=A1=D5=E2=CA=B1ComboPoo=
+ledDataSource=BB=E1=D7=D4=B6=AF=B6=C1=C8=A1=B2=A2=BD=E2=CE=F6</sp=
+an></code></li><li class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"com"> * </span></code></li><li class=3D"L7"><code cla=
+ss=3D"language-java"><span class=3D"com"> */</span></code></li><l=
+i class=3D"L8"><code class=3D"language-java"><span class=3D"kwd">=
+public</span><span class=3D"pln"> </span><span class=3D"kwd">clas=
+s</span><span class=3D"pln"> C3p0Demo </span><span class=3D"pun">=
+{</span></code></li><li class=3D"L9"><code class=3D"language-java=
+"></code></li><li class=3D"L0"><code class=3D"language-java"><spa=
+n class=3D"pln">	</span><span class=3D"com">//c3p0=B5=C4xml=C5=E4=
+=D6=C3=CE=C4=BC=FE=B7=BD=CA=BD</span></code></li><li class=3D"L1"=
+><code class=3D"language-java"><span class=3D"pln">	</span><span=20=
+class=3D"kwd">public</span><span class=3D"pln"> </span><span clas=
+s=3D"kwd">static</span><span class=3D"pln"> </span><span class=3D=
+"kwd">void</span><span class=3D"pln"> main</span><span class=3D"p=
+un">(</span><span class=3D"typ">String</span><span class=3D"pun">=
+[]</span><span class=3D"pln"> args</span><span class=3D"pun">)</s=
+pan><span class=3D"pln"> </span><span class=3D"kwd">throws</span>=
+<span class=3D"pln"> </span><span class=3D"typ">Exception</span><=
+span class=3D"pln"> </span><span class=3D"pun">{</span></code></l=
+i><li class=3D"L2"><code class=3D"language-java"><span class=3D"p=
+ln">		</span><span class=3D"com">//=D6=BB=D2=AA=B4=B4=BD=A8=B3=F6=
+ComboPooledDataSource=BC=B4=BF=C9</span></code></li><li class=3D"=
+L3"><code class=3D"language-java"><span class=3D"pln">		</span><s=
+pan class=3D"com">//=D4=DAComboPooledDataSource()=CE=DE=B2=CE=B9=B9=
+=D4=EC=B7=BD=B7=A8=D6=D0=A3=AC=C4=AC=C8=CF=B4=D3src=D6=D0=B6=C1=C8=
+=A1c3p0-config.xml=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE=D0=C5=CF=A2</spa=
+n></code></li><li class=3D"L4"><code class=3D"language-java"><spa=
+n class=3D"pln">		</span><span class=3D"typ">DataSource</span><sp=
+an class=3D"pln"> ds </span><span class=3D"pun">=3D</span><span c=
+lass=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D=
+"pln"> </span><span class=3D"typ">ComboPooledDataSource</span><sp=
+an class=3D"pun">();</span></code></li><li class=3D"L5"><code cla=
+ss=3D"language-java"><span class=3D"pln">		</span><span class=3D"=
+typ">Connection</span><span class=3D"pln"> connection </span><spa=
+n class=3D"pun">=3D</span><span class=3D"pln"> ds</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">getConnection</span><span=20=
+class=3D"pun">();</span></code></li><li class=3D"L6"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"typ">=
+String</span><span class=3D"pln"> sql </span><span class=3D"pun">=
+=3D</span><span class=3D"pln"> </span><span class=3D"str">"insert=
+ into user values(?,?,?,?)"</span><span class=3D"pun">;</span></c=
+ode></li><li class=3D"L7"><code class=3D"language-java"><span cla=
+ss=3D"pln">		</span><span class=3D"typ">PreparedStatement</span><=
+span class=3D"pln"> statement </span><span class=3D"pun">=3D</spa=
+n><span class=3D"pln"> connection</span><span class=3D"pun">.</sp=
+an><span class=3D"pln">prepareStatement</span><span class=3D"pun"=
+>(</span><span class=3D"pln">sql </span><span class=3D"pun">);</s=
+pan></code></li><li class=3D"L8"><code class=3D"language-java"><s=
+pan class=3D"pln">		</span><span class=3D"com">//=D4=A4=B1=E0=D2=EB=
+=CD=EA=B1=CF=BA=F3=CA=E4=C8=EB=B2=CE=CA=FD</span></code></li><li=20=
+class=3D"L9"><code class=3D"language-java"><span class=3D"pln">	=09=
+statement</span><span class=3D"pun">.</span><span class=3D"pln">s=
+etString</span><span class=3D"pun">(</span><span class=3D"lit">1<=
+/span><span class=3D"pun">,</span><span class=3D"pln"> </span><sp=
+an class=3D"str">"012"</span><span class=3D"pun">);</span></code>=
+</li><li class=3D"L0"><code class=3D"language-java"><span class=3D=
+"pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setString</span><span class=3D"pun">(</span><span class=3D"=
+lit">2</span><span class=3D"pun">,</span><span class=3D"pln"> </s=
+pan><span class=3D"str">"=CD=F5=CE=E5"</span><span class=3D"pun">=
+);</span></code></li><li class=3D"L1"><code class=3D"language-jav=
+a"><span class=3D"pln">		statement</span><span class=3D"pun">.</s=
+pan><span class=3D"pln">setInt</span><span class=3D"pun">(</span>=
+<span class=3D"lit">3</span><span class=3D"pun">,</span><span cla=
+ss=3D"pln"> </span><span class=3D"lit">22</span><span class=3D"pu=
+n">);</span></code></li><li class=3D"L2"><code class=3D"language-=
+java"><span class=3D"pln">		statement</span><span class=3D"pun">.=
+</span><span class=3D"pln">setString</span><span class=3D"pun">(<=
+/span><span class=3D"lit">4</span><span class=3D"pun">,</span><sp=
+an class=3D"pln"> </span><span class=3D"str">"123"</span><span cl=
+ass=3D"pun">);</span></code></li><li class=3D"L3"><code class=3D"=
+language-java"><span class=3D"pln">		</span></code></li><li class=
+=3D"L4"><code class=3D"language-java"><span class=3D"pln">		</spa=
+n><span class=3D"kwd">int</span><span class=3D"pln"> executeUpdat=
+e </span><span class=3D"pun">=3D</span><span class=3D"pln"> state=
+ment</span><span class=3D"pun">.</span><span class=3D"pln">execut=
+eUpdate</span><span class=3D"pun">();</span></code></li><li class=
+=3D"L5"><code class=3D"language-java"><span class=3D"pln">		</spa=
+n><span class=3D"typ">System</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">out</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">println</span><span class=3D"pun">(</span><span class=3D=
+"pln">executeUpdate</span><span class=3D"pun">);</span></code></l=
+i><li class=3D"L6"><code class=3D"language-java"><span class=3D"p=
+ln">		</span><span class=3D"com">//connection=CA=C7=B4=D3c3p0=BF=AA=
+=D4=B4=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=D6=D0=BB=F1=C8=A1=B5=C4=
+=A3=AC=CB=FC=D2=D1=BE=AD=B1=BBc3p0=D4=F6=C7=BF=C1=CBclose=B7=BD=B7=
+=A8=BE=CD=BB=E1=B7=C5=BB=D8c3p0=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=
+</span></code></li><li class=3D"L7"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"typ">JdbcUtil</span>=
+<span class=3D"pun">.</span><span class=3D"pln">release</span><sp=
+an class=3D"pun">(</span><span class=3D"kwd">null</span><span cla=
+ss=3D"pun">,</span><span class=3D"pln"> statement</span><span cla=
+ss=3D"pun">,</span><span class=3D"pln"> connection</span><span cl=
+ass=3D"pun">);</span></code></li><li class=3D"L8"><code class=3D"=
+language-java"><span class=3D"pln">	</span><span class=3D"pun">}<=
+/span></code></li><li class=3D"L9"><code class=3D"language-java">=
+</code></li><li class=3D"L0"><code class=3D"language-java"><span=20=
+class=3D"pln">	</span><span class=3D"com">//c3p0=CA=D6=B6=AF=C9=E8=
+=D6=C3=B7=BD=CA=BD=A3=BA(=B2=BB=CD=C6=BC=F6)</span></code></li><l=
+i class=3D"L1"><code class=3D"language-java"><span class=3D"pln">=
+	</span><span class=3D"kwd">private</span><span class=3D"pln"> </=
+span><span class=3D"kwd">static</span><span class=3D"pln"> </span=
+><span class=3D"kwd">void</span><span class=3D"pln"> c3p0_test</s=
+pan><span class=3D"pun">()</span><span class=3D"pln"> </span><spa=
+n class=3D"kwd">throws</span><span class=3D"pln"> </span><span cl=
+ass=3D"typ">PropertyVetoException</span><span class=3D"pun">,</sp=
+an><span class=3D"pln"> </span><span class=3D"typ">SQLException</=
+span><span class=3D"pln"> </span><span class=3D"pun">{</span></co=
+de></li><li class=3D"L2"><code class=3D"language-java"><span clas=
+s=3D"pln">		</span><span class=3D"typ">ComboPooledDataSource</spa=
+n><span class=3D"pln"> cpds </span><span class=3D"pun">=3D</span>=
+<span class=3D"pln"> </span><span class=3D"kwd">new</span><span c=
+lass=3D"pln"> </span><span class=3D"typ">ComboPooledDataSource</s=
+pan><span class=3D"pun">();</span></code></li><li class=3D"L3"><c=
+ode class=3D"language-java"><span class=3D"pln">		cpds</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">setDriverClass</span>=
+<span class=3D"pun">(</span><span class=3D"pln"> </span><span cla=
+ss=3D"str">"com.mysql.jdbc.Driver"</span><span class=3D"pln"> </s=
+pan><span class=3D"pun">);</span><span class=3D"pln">           =20=
+ </span></code></li><li class=3D"L4"><code class=3D"language-java=
+"><span class=3D"pln">		cpds</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">setJdbcUrl</span><span class=3D"pun">(</span><s=
+pan class=3D"pln"> </span><span class=3D"str">"jdbc:mysql://local=
+host:3306/day04"</span><span class=3D"pln"> </span><span class=3D=
+"pun">);</span></code></li><li class=3D"L5"><code class=3D"langua=
+ge-java"><span class=3D"pln">		cpds</span><span class=3D"pun">.</=
+span><span class=3D"pln">setUser</span><span class=3D"pun">(</spa=
+n><span class=3D"str">"root"</span><span class=3D"pun">);</span><=
+span class=3D"pln">                                  </span></cod=
+e></li><li class=3D"L6"><code class=3D"language-java"><span class=
+=3D"pln">		cpds</span><span class=3D"pun">.</span><span class=3D"=
+pln">setPassword</span><span class=3D"pun">(</span><span class=3D=
+"str">"123"</span><span class=3D"pun">);</span></code></li><li cl=
+ass=3D"L7"><code class=3D"language-java"><span class=3D"pln">		</=
+span></code></li><li class=3D"L8"><code class=3D"language-java"><=
+span class=3D"pln">		</span><span class=3D"typ">Connection</span>=
+<span class=3D"pln"> connection </span><span class=3D"pun">=3D</s=
+pan><span class=3D"pln"> cpds</span><span class=3D"pun">.</span><=
+span class=3D"pln">getConnection</span><span class=3D"pun">();</s=
+pan></code></li><li class=3D"L9"><code class=3D"language-java"><s=
+pan class=3D"pln">		</span><span class=3D"typ">String</span><span=
+ class=3D"pln"> sql </span><span class=3D"pun">=3D</span><span cl=
+ass=3D"pln"> </span><span class=3D"str">"insert into user values(=
+?,?,?,?)"</span><span class=3D"pun">;</span></code></li><li class=
+=3D"L0"><code class=3D"language-java"><span class=3D"pln">		</spa=
+n><span class=3D"typ">PreparedStatement</span><span class=3D"pln"=
+> statement </span><span class=3D"pun">=3D</span><span class=3D"p=
+ln"> connection</span><span class=3D"pun">.</span><span class=3D"=
+pln">prepareStatement</span><span class=3D"pun">(</span><span cla=
+ss=3D"pln">sql </span><span class=3D"pun">);</span></code></li><l=
+i class=3D"L1"><code class=3D"language-java"><span class=3D"pln">=
+		</span><span class=3D"com">//=D4=A4=B1=E0=D2=EB=CD=EA=B1=CF=BA=F3=
+=CA=E4=C8=EB=B2=CE=CA=FD</span></code></li><li class=3D"L2"><code=
+ class=3D"language-java"><span class=3D"pln">		statement</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">setString</span><sp=
+an class=3D"pun">(</span><span class=3D"lit">1</span><span class=3D=
+"pun">,</span><span class=3D"pln"> </span><span class=3D"str">"01=
+1"</span><span class=3D"pun">);</span></code></li><li class=3D"L3=
+"><code class=3D"language-java"><span class=3D"pln">		statement</=
+span><span class=3D"pun">.</span><span class=3D"pln">setString</s=
+pan><span class=3D"pun">(</span><span class=3D"lit">2</span><span=
+ class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"str">"=CD=F5=CE=E5"</span><span class=3D"pun">);</span></code></=
+li><li class=3D"L4"><code class=3D"language-java"><span class=3D"=
+pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setInt</span><span class=3D"pun">(</span><span class=3D"lit=
+">3</span><span class=3D"pun">,</span><span class=3D"pln"> </span=
+><span class=3D"lit">22</span><span class=3D"pun">);</span></code=
+></li><li class=3D"L5"><code class=3D"language-java"><span class=3D=
+"pln">		statement</span><span class=3D"pun">.</span><span class=3D=
+"pln">setString</span><span class=3D"pun">(</span><span class=3D"=
+lit">4</span><span class=3D"pun">,</span><span class=3D"pln"> </s=
+pan><span class=3D"str">"123"</span><span class=3D"pun">);</span>=
+</code></li><li class=3D"L6"><code class=3D"language-java"><span=20=
+class=3D"pln">		</span></code></li><li class=3D"L7"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"kwd">=
+int</span><span class=3D"pln"> executeUpdate </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> statement</span><span class=3D=
+"pun">.</span><span class=3D"pln">executeUpdate</span><span class=
+=3D"pun">();</span></code></li><li class=3D"L8"><code class=3D"la=
+nguage-java"><span class=3D"pln">		</span><span class=3D"typ">Sys=
+tem</span><span class=3D"pun">.</span><span class=3D"pln">out</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">println</span>=
+<span class=3D"pun">(</span><span class=3D"pln">executeUpdate</sp=
+an><span class=3D"pun">);</span></code></li><li class=3D"L9"><cod=
+e class=3D"language-java"><span class=3D"pln">		</span><span clas=
+s=3D"com">//connection=CA=C7=B4=D3c3p0=BF=AA=D4=B4=CA=FD=BE=DD=BF=
+=E2=C1=AC=BD=D3=B3=D8=D6=D0=BB=F1=C8=A1=B5=C4=A3=AC=CB=FC=D2=D1=BE=
+=AD=B1=BBc3p0=D4=F6=C7=BF=C1=CBclose=B7=BD=B7=A8=BE=CD=BB=E1=B7=C5=
+=BB=D8c3p0=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8</span></code></li>=
+<li class=3D"L0"><code class=3D"language-java"><span class=3D"pln=
+">		</span><span class=3D"typ">JdbcUtil</span><span class=3D"pun"=
+>.</span><span class=3D"pln">release</span><span class=3D"pun">(<=
+/span><span class=3D"kwd">null</span><span class=3D"pun">,</span>=
+<span class=3D"pln"> statement</span><span class=3D"pun">,</span>=
+<span class=3D"pln"> connection</span><span class=3D"pun">);</spa=
+n></code></li><li class=3D"L1"><code class=3D"language-java"><spa=
+n class=3D"pln">	</span><span class=3D"pun">}</span></code></li><=
+li class=3D"L2"><code class=3D"language-java"></code></li><li cla=
+ss=3D"L3"><code class=3D"language-java"><span class=3D"pun">}</sp=
+an></code></li></ol></pre></div><div><br></div></div><div>07_=CA=B9=
+=D3=C3c3p0=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=B8=C4=D0=B4=B9=A4=BE=
+=DF=C0=E0</div><div><div><pre class=3D"prettyprint linenums prett=
+yprinted"><ol class=3D"linenums"><li class=3D"L0"><code class=3D"=
+language-java"><span class=3D"pln">	</span><span class=3D"com">//=
+=D4=DAComboPooledDataSource()=CE=DE=B2=CE=B9=B9=D4=EC=B7=BD=B7=A8=
+=D6=D0=A3=AC=C4=AC=C8=CF=B4=D3src=D6=D0=B6=C1=C8=A1c3p0-config.xm=
+l=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE=D0=C5=CF=A2</span></code></li><li=
+ class=3D"L1"><code class=3D"language-java"><span class=3D"pln">=09=
+</span><span class=3D"com">//=B4=CB=CA=B1=A3=AC=C7=FD=B6=AF=D2=D1=
+=BE=AD=D3=C9ComboPooledDataSource()=CE=DE=B2=CE=B9=B9=D4=EC=B7=BD=
+=B7=A8=D7=A2=B2=E1=C1=CB=A3=A1=A3=A1=A3=A1</span></code></li><li=20=
+class=3D"L2"><code class=3D"language-java"><span class=3D"pln">	<=
+/span><span class=3D"kwd">private</span><span class=3D"pln"> </sp=
+an><span class=3D"kwd">static</span><span class=3D"pln"> </span><=
+span class=3D"typ">DataSource</span><span class=3D"pln"> dataSour=
+ce </span><span class=3D"pun">=3D</span><span class=3D"pln"> </sp=
+an><span class=3D"kwd">new</span><span class=3D"pln"> </span><spa=
+n class=3D"typ">ComboPooledDataSource</span><span class=3D"pun">(=
+);</span></code></li><li class=3D"L3"><code class=3D"language-jav=
+a"></code></li><li class=3D"L4"><code class=3D"language-java"><sp=
+an class=3D"pln">	</span><span class=3D"com">//=CA=B9=D3=C3c3p0=BF=
+=AA=D4=B4=CA=FD=BE=DD=BF=E2=C1=AC=BD=D3=B3=D8=BB=F1=C8=A1=C1=AC=BD=
+=D3</span></code></li><li class=3D"L5"><code class=3D"language-ja=
+va"><span class=3D"pln">	</span><span class=3D"kwd">public</span>=
+<span class=3D"pln"> </span><span class=3D"kwd">static</span><spa=
+n class=3D"pln"> </span><span class=3D"typ">Connection</span><spa=
+n class=3D"pln"> getConnection</span><span class=3D"pun">(){</spa=
+n></code></li><li class=3D"L6"><code class=3D"language-java"><spa=
+n class=3D"pln">		</span><span class=3D"typ">Connection</span><sp=
+an class=3D"pln"> connection </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> </span><span class=3D"kwd">null</span><span=
+ class=3D"pun">;</span></code></li><li class=3D"L7"><code class=3D=
+"language-java"><span class=3D"pln">		</span><span class=3D"kwd">=
+try</span><span class=3D"pln"> </span><span class=3D"pun">{</span=
+></code></li><li class=3D"L8"><code class=3D"language-java"><span=
+ class=3D"pln">			connection </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> dataSource</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">getConnection</span><span class=3D"pun">();=
+</span></code></li><li class=3D"L9"><code class=3D"language-java"=
+><span class=3D"pln">		</span><span class=3D"pun">}</span><span c=
+lass=3D"pln"> </span><span class=3D"kwd">catch</span><span class=3D=
+"pln"> </span><span class=3D"pun">(</span><span class=3D"typ">SQL=
+Exception</span><span class=3D"pln"> e</span><span class=3D"pun">=
+)</span><span class=3D"pln"> </span><span class=3D"pun">{</span><=
+/code></li><li class=3D"L0"><code class=3D"language-java"><span c=
+lass=3D"pln">			</span><span class=3D"com">// TODO Auto-generated=
+ catch block</span></code></li><li class=3D"L1"><code class=3D"la=
+nguage-java"><span class=3D"pln">			e</span><span class=3D"pun">.=
+</span><span class=3D"pln">printStackTrace</span><span class=3D"p=
+un">();</span></code></li><li class=3D"L2"><code class=3D"languag=
+e-java"><span class=3D"pln">		</span><span class=3D"pun">}</span>=
+</code></li><li class=3D"L3"><code class=3D"language-java"><span=20=
+class=3D"pln">		</span><span class=3D"kwd">return</span><span cla=
+ss=3D"pln"> connection</span><span class=3D"pun">;</span></code><=
+/li><li class=3D"L4"><code class=3D"language-java"><span class=3D=
+"pln">	</span><span class=3D"pun">}</span></code></li></ol></pre>=
+</div><div><br></div></div><div>08_=C8=FD=B2=E3=BD=E1=B9=B9=BD=E9=
+=C9=DC<br></div><div><br></div><div>09_=C8=FD=B2=E3=BD=E1=B9=B9=CA=
+=B5=CF=D6=B5=C7=C2=BC=B0=B8=C0=FD</div><div><br></div><div><br></=
+div><div><br></div><div><br></div></div></div></body></html>
+
+------=_Next_Part_0022546184.334--
+
+------=_Next_Part_0067638552.467
+Content-Type: text/css;
+	name="wiz_code_highlight_471.css"
+Content-Transfer-Encoding: base64
+Content-ID: <wiz_code_highlight_471.css>
+Content-Location: wiz_code_highlight_471.css
+
+//4NAAoADQAKAA0ACgAuAGgAbABqAHMAIAB7AA0ACgAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBs
+AG8AYwBrADsAIABwAGEAZABkAGkAbgBnADoAIAAwAC4ANQBlAG0AOwANAAoAIAAgAGIAYQBjAGsA
+ZwByAG8AdQBuAGQAOgAgACMARgAwAEYAMABGADAAOwANAAoAfQANAAoADQAKAC4AaABsAGoAcwAs
+AA0ACgAuAGgAbABqAHMALQBzAHUAYgBzAHQALAANAAoALgBoAGwAagBzAC0AdABhAGcAIAAuAGgA
+bABqAHMALQB0AGkAdABsAGUALAANAAoALgBsAGkAcwBwACAALgBoAGwAagBzAC0AdABpAHQAbABl
+ACwADQAKAC4AYwBsAG8AagB1AHIAZQAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAsAA0A
+CgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAHQAaQB0AGwAZQAgAHsADQAKACAAIABjAG8AbABv
+AHIAOgAgAGIAbABhAGMAawA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcA
+LAANAAoALgBoAGwAagBzAC0AdABpAHQAbABlACwADQAKAC4AaABsAGoAcwAtAGMAbwBuAHMAdABh
+AG4AdAAsAA0ACgAuAGgAbABqAHMALQBwAGEAcgBlAG4AdAAsAA0ACgAuAGgAbABqAHMALQB0AGEA
+ZwAgAC4AaABsAGoAcwAtAHYAYQBsAHUAZQAsAA0ACgAuAGgAbABqAHMALQByAHUAbABlAHMAIAAu
+AGgAbABqAHMALQB2AGEAbAB1AGUALAANAAoALgBoAGwAagBzAC0AcgB1AGwAZQBzACAALgBoAGwA
+agBzAC0AdgBhAGwAdQBlACAALgBoAGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBz
+AC0AcAByAGUAcAByAG8AYwBlAHMAcwBvAHIALAANAAoALgBoAGwAagBzAC0AcAByAGEAZwBtAGEA
+LAANAAoALgBoAGEAbQBsACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5
+ACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5ACAALgBoAGwAagBzAC0A
+cwB5AG0AYgBvAGwAIAAuAGgAbABqAHMALQBzAHQAcgBpAG4AZwAsAA0ACgAuAGgAbABqAHMALQBh
+AGcAZwByAGUAZwBhAHQAZQAsAA0ACgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwB0AGEA
+ZwAsAA0ACgAuAGQAagBhAG4AZwBvACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIAbABlACwADQAK
+AC4AcwBtAGEAbABsAHQAYQBsAGsAIAAuAGgAbABqAHMALQBjAGwAYQBzAHMALAANAAoALgBoAGwA
+agBzAC0AYQBkAGQAaQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGYAbABvAHcALAANAAoALgBo
+AGwAagBzAC0AcwB0AHIAZQBhAG0ALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIA
+aQBhAGIAbABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAu
+AGEAcABhAGMAaABlACAALgBoAGwAagBzAC0AYwBiAHIAYQBjAGsAZQB0ACwADQAKAC4AdABlAHgA
+IAAuAGgAbABqAHMALQBjAG8AbQBtAGEAbgBkACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBz
+AHAAZQBjAGkAYQBsACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0A
+ZgB1AG4AYwB0AGkAbwBuAF8AbwByAF8AYQB0AG8AbQAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAg
+AC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwA
+agBzAC0AaABlAGEAZABlAHIALAANAAoALgBjAG8AZgBmAGUAZQBzAGMAcgBpAHAAdAAgAC4AaABs
+AGoAcwAtAGEAdAB0AHIAaQBiAHUAdABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADAA
+MAA7AA0ACgB9AA0ACgANAAoALgBzAG0AYQByAHQAcQB1AG8AdABlACwADQAKAC4AaABsAGoAcwAt
+AGMAbwBtAG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AYQBuAG4AbwB0AGEAdABpAG8AbgAsAA0A
+CgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwBjAG8AbQBtAGUAbgB0ACwADQAKAC4AZABp
+AGYAZgAgAC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AaABsAGoAcwAtAGMAaAB1AG4A
+awAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAGIAbABvAGMAawBxAHUAbwB0
+AGUALAANAAoALgBtAGEAcgBrAGQAbwB3AG4AIAAuAGgAbABqAHMALQBiAGwAbwBjAGsAcQB1AG8A
+dABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgAOAA7AA0ACgB9AA0ACgANAAoALgBo
+AGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBzAC0AZABhAHQAZQAsAA0ACgAuAGgA
+bABqAHMALQByAGUAZwBlAHgAcAAsAA0ACgAuAGgAbABqAHMALQBsAGkAdABlAHIAYQBsACwADQAK
+AC4AaABsAGoAcwAtAGgAZQB4AGMAbwBsAG8AcgAsAA0ACgAuAHMAbQBhAGwAbAB0AGEAbABrACAA
+LgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgBzAG0AYQBsAGwAdABhAGwAawAgAC4AaABs
+AGoAcwAtAGMAaABhAHIALAANAAoALgBnAG8AIAAuAGgAbABqAHMALQBjAG8AbgBzAHQAYQBuAHQA
+LAANAAoALgBoAGwAagBzAC0AYwBoAGEAbgBnAGUALAANAAoALgBsAGEAcwBzAG8AIAAuAGgAbABq
+AHMALQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBtAGEAawBlAGYAaQBsAGUAIAAuAGgAbABqAHMA
+LQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAuAGgAbABqAHMALQBi
+AHUAbABsAGUAdAAsAA0ACgAuAG0AYQByAGsAZABvAHcAbgAgAC4AaABsAGoAcwAtAGIAdQBsAGwA
+ZQB0ACwADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBs
+ACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBsACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwAwADgAMAA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBz
+AC0AbABhAGIAZQBsACwADQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMALAANAAoALgByAHUA
+YgB5ACAALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcALAANAAoALgBoAGwAagBzAC0AZABlAGMAbwBy
+AGEAdABvAHIALAANAAoALgBoAGwAagBzAC0AZgBpAGwAdABlAHIAIAAuAGgAbABqAHMALQBhAHIA
+ZwB1AG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AbABvAGMAYQBsAHYAYQByAHMALAANAAoALgBo
+AGwAagBzAC0AYQByAHIAYQB5ACwADQAKAC4AaABsAGoAcwAtAGEAdAB0AHIAXwBzAGUAbABlAGMA
+dABvAHIALAANAAoALgBoAGwAagBzAC0AaQBtAHAAbwByAHQAYQBuAHQALAANAAoALgBoAGwAagBz
+AC0AcABzAGUAdQBkAG8ALAANAAoALgBoAGwAagBzAC0AcABpACwADQAKAC4AaABhAG0AbAAgAC4A
+aABsAGoAcwAtAGIAdQBsAGwAZQB0ACwADQAKAC4AaABsAGoAcwAtAGQAbwBjAHQAeQBwAGUALAAN
+AAoALgBoAGwAagBzAC0AZABlAGwAZQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGUAbgB2AHYA
+YQByACwADQAKAC4AaABsAGoAcwAtAHMAaABlAGIAYQBuAGcALAANAAoALgBhAHAAYQBjAGgAZQAg
+AC4AaABsAGoAcwAtAHMAcQBiAHIAYQBjAGsAZQB0ACwADQAKAC4AbgBnAGkAbgB4ACAALgBoAGwA
+agBzAC0AYgB1AGkAbAB0AF8AaQBuACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBt
+AHUAbABhACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0AcgBlAHMA
+ZQByAHYAZQBkACwADQAKAC4AaABsAGoAcwAtAHAAcgBvAG0AcAB0ACwADQAKAC4AYQBzAGMAaQBp
+AGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAGwAYQBiAGUAbAAsAA0ACgAuAG0AYQByAGsA
+ZABvAHcAbgAgAC4AaABsAGoAcwAtAGwAaQBuAGsAXwBsAGEAYgBlAGwALAANAAoALgB2AGgAZABs
+ACAALgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBjAGwAbwBqAHUAcgBlACAA
+LgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAu
+AGgAbABqAHMALQBhAHQAdAByAGkAYgB1AHQAZQAsAA0ACgAuAGwAYQBzAHMAbwAgAC4AaABsAGoA
+cwAtAGEAdAB0AHIAaQBiAHUAdABlACwADQAKAC4AYwBvAGYAZgBlAGUAcwBjAHIAaQBwAHQAIAAu
+AGgAbABqAHMALQBwAHIAbwBwAGUAcgB0AHkALAANAAoALgBoAGwAagBzAC0AcABoAG8AbgB5ACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgARgANAAoAfQANAAoADQAKAC4AaABsAGoAcwAt
+AGsAZQB5AHcAbwByAGQALAANAAoALgBoAGwAagBzAC0AaQBkACwADQAKAC4AaABsAGoAcwAtAHQA
+aQB0AGwAZQAsAA0ACgAuAGgAbABqAHMALQBiAHUAaQBsAHQAXwBpAG4ALAANAAoALgBoAGwAagBz
+AC0AYQBnAGcAcgBlAGcAYQB0AGUALAANAAoALgBjAHMAcwAgAC4AaABsAGoAcwAtAHQAYQBnACwA
+DQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMAdABhAGcALAANAAoALgBoAGwAagBzAC0AcABo
+AHAAZABvAGMALAANAAoALgBoAGwAagBzAC0AeQBhAHIAZABvAGMAdABhAGcALAANAAoALgBzAG0A
+YQBsAGwAdABhAGwAawAgAC4AaABsAGoAcwAtAGMAbABhAHMAcwAsAA0ACgAuAGgAbABqAHMALQB3
+AGkAbgB1AHQAaQBsAHMALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIA
+bABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAuAGcAbwAg
+AC4AaABsAGoAcwAtAHQAeQBwAGUAbgBhAG0AZQAsAA0ACgAuAHQAZQB4ACAALgBoAGwAagBzAC0A
+YwBvAG0AbQBhAG4AZAAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAHMAdABy
+AG8AbgBnACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AcwB0AHIAbwBuAGcA
+LAANAAoALgBoAGwAagBzAC0AcgBlAHEAdQBlAHMAdAAsAA0ACgAuAGgAbABqAHMALQBzAHQAYQB0
+AHUAcwAgAHsADQAKACAAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAGIAbwBsAGQAOwANAAoA
+fQANAAoADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBz
+ACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBzACAA
+ewANAAoAIAAgAGYAbwBuAHQALQBzAHQAeQBsAGUAOgAgAGkAdABhAGwAaQBjADsADQAKAH0ADQAK
+AA0ACgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAgAHsADQAKACAA
+IABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAG4AbwByAG0AYQBsADsADQAKAH0ADQAKAA0ACgAu
+AGMAbwBmAGYAZQBlAHMAYwByAGkAcAB0ACAALgBqAGEAdgBhAHMAYwByAGkAcAB0ACwADQAKAC4A
+agBhAHYAYQBzAGMAcgBpAHAAdAAgAC4AeABtAGwALAANAAoALgBsAGEAcwBzAG8AIAAuAG0AYQBy
+AGsAdQBwACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBtAHUAbABhACwADQAKAC4A
+eABtAGwAIAAuAGoAYQB2AGEAcwBjAHIAaQBwAHQALAANAAoALgB4AG0AbAAgAC4AdgBiAHMAYwBy
+AGkAcAB0ACwADQAKAC4AeABtAGwAIAAuAGMAcwBzACwADQAKAC4AeABtAGwAIAAuAGgAbABqAHMA
+LQBjAGQAYQB0AGEAIAB7AA0ACgAgACAAbwBwAGEAYwBpAHQAeQA6ACAAMAAuADUAOwANAAoAfQAN
+AAoADQAKAHAAcgBlACAAewANAAoAIAAgAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADMAcAB4ADsA
+DQAKAH0ADQAKAA0ACgBwAHIAZQAsACAAYwBvAGQAZQAgAHsADQAKACAAIABmAG8AbgB0AC0AZgBh
+AG0AaQBsAHkAOgAgAEMAbwBuAHMAbwBsAGEAcwAsACAAIgBMAGkAYgBlAHIAYQB0AGkAbwBuACAA
+TQBvAG4AbwAiACwAIABNAGUAbgBsAG8ALAAgAEMAbwB1AHIAaQBlAHIALAAgAG0AbwBuAG8AcwBw
+AGEAYwBlADsADQAKACAAIAB3AG8AcgBkAC0AdwByAGEAcAA6ACAAYgByAGUAYQBrAC0AdwBvAHIA
+ZAA7AA0ACgB9AA0ACgANAAoALgBwAGwAbgAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMANAA4
+ADQAOAA0AEMAOwAgAH0ADQAKAA0ACgAuAHMAdAByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAA
+IwBEAEQAMQAxADQANAA7ACAAfQANAAoADQAKAC4AawB3AGQAIAB7AA0ACgAgACAAYwBvAGwAbwBy
+ADoAIAAjADEARQAzADQANwBCADsAIAB9AA0ACgANAAoALgBjAG8AbQAgAHsADQAKACAAIABjAG8A
+bABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAHQAeQBwACAAewANAAoAIAAg
+AGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4AbABpAHQAIAB7AA0ACgAgACAA
+YwBvAGwAbwByADoAIAAjADEAOQA1AEYAOQAxADsAIAB9AA0ACgANAAoALgBwAHUAbgAgAHsADQAK
+ACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAG8AcABuACAA
+ewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA5ADMAQQAxAEEAMQA7ACAAfQANAAoADQAKAC4AYwBs
+AG8AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADkAMwBBADEAQQAxADsAIAB9AA0ACgANAAoA
+LgB0AGEAZwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAMAAwADgAOwAgAH0ADQAKAA0ACgAu
+AGEAdABuACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4A
+YQB0AHYAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQARAAxADEANAA0ADsAIAB9AA0ACgAN
+AAoALgBkAGUAYwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgAHQAZQBhAGwAOwAgAH0ADQAKAA0A
+CgAuAHYAYQByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAK
+AC4AZgB1AG4AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQAQwAzADIAMgBGADsAIAB9AA0A
+CgANAAoADQAKAHAAcgBlAC4AcAByAGUAdAB0AHkAcAByAGkAbgB0ACAAewANAAoAIAAgAGIAYQBj
+AGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgACMARgA3AEYANwBGADkAOwANAAoAIAAgAHAA
+YQBkAGQAaQBuAGcAOgAgADEAMABwAHgAOwANAAoAIAAgAGIAbwByAGQAZQByADoAIAAxAHAAeAAg
+AHMAbwBsAGkAZAAgACMARQAxAEUAMQBFADgAOwAgAA0ACgAgACAAdABhAGIALQBzAGkAegBlADoA
+IAA0ADsAIAB9AA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBl
+AG4AdQBtAHMAIAB7AA0ACgAgACAAYgBvAHgALQBzAGgAYQBkAG8AdwA6ACAANAAwAHAAeAAgADAA
+IAAwACAAIwBGAEIARgBCAEYAQwAgAGkAbgBzAGUAdAAsACAANAAxAHAAeAAgADAAIAAwACAAIwBF
+AEMARQBDAEYAMAAgAGkAbgBzAGUAdAA7ACAAfQANAAoADQAKAA0ACgBwAHIAZQAuAHAAcgBlAHQA
+dAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAg
+AHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAMQBFADMANAA3AEIAOwANAAoAIAAgAHAAYQBkAGQA
+aQBuAGcALQBsAGUAZgB0ADoAIAAzADAAcAB4ACAAIQBpAG0AcABvAHIAdABhAG4AdAA7AA0ACgAg
+ACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ACAAMAA7AA0ACgAgACAAbQBhAHIAZwBpAG4ALQBiAG8A
+dAB0AG8AbQA6ACAAMAA7AA0ACgB9AA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBu
+AHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkAIAB7AA0A
+CgAgACAAYwBvAGwAbwByADoAIAAjAEIARQBCAEUAQwA1ADsADQAKACAAIABsAGkAbgBlAC0AaABl
+AGkAZwBoAHQAOgAgADEAOABwAHgAOwANAAoAIAAgAHAAYQBkAGQAaQBuAGcALQBsAGUAZgB0ADoA
+IAAxADIAcAB4ACAAIQBpAG0AcABvAHIAdABhAG4AdAA7ACAADQAKAH0ADQAKAA0ACgBwAHIAZQAu
+AHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUA
+bgB1AG0AcwAgAGwAaQAuAEwAMAAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAu
+AGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMQAsAA0A
+CgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAu
+AGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMgAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAA
+cgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAu
+AEwAMwAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0A
+cwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANAAsAA0ACgBwAHIAZQAuAHAAcgBl
+AHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0A
+cwAgAGwAaQAuAEwANQAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBu
+AGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANgAsAA0ACgBwAHIA
+ZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBu
+AGUAbgB1AG0AcwAgAGwAaQAuAEwANwAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4A
+dAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAOAAs
+AA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8A
+bAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAOQAgAHsADQAKACAAIABsAGkAcwB0AC0AcwB0
+AHkAbABlAC0AdAB5AHAAZQA6ACAAZABlAGMAaQBtAGEAbAAgACEAaQBtAHAAbwByAHQAYQBuAHQA
+OwAgAA0ACgB9AA0ACgA=
+
+------=_Next_Part_0067638552.467--
+

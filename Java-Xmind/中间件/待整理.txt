@@ -1,0 +1,15 @@
+luncence 全文检索
+solr     搜索引擎
+zookeeper 集群管理
+
+Spring Cloud Config 配置中心
+zuul  -> Ribbon -> Hystix 网关
+nginx 反向代理服务器
+elastisearch 索引库
+thymeleaf 模板引擎
+FastDFS  分布式文件系统
+JWT token 令牌  鉴权使用
+微信支付 
+支付宝支付 
+银行卡支付 
+阿里短信 
